@@ -1,0 +1,167 @@
+<resources>
+	<properties>
+		<property id="Background" type="number">0x000000</property>
+		<property id="ColorDate" type="number">0xFFAA00</property>
+		<property id="ColorHour" type="number">0x00AAFF</property>
+		<property id="ColorMin" type="number">0x00FF00</property>
+		<property id="ColorSec" type="number">0xFF0000</property>
+		<property id="ColorDigit" type="number">0x000000</property>
+		<property id="AnimationTime" type="number">2</property>
+		<property id="ArcsOn" type="boolean">true</property>	
+		<property id="ArcsRoundedOn" type="boolean">true</property>	
+		<property id="WidthSize" type="number">15</property>
+		<property id="SimpleModeOnSleep" type="boolean">true</property>	
+		<property id="HandsOn" type="boolean">false</property>	
+		<property id="OrbitsOn" type="boolean">true</property>
+		<property id="DigitsOn" type="boolean">true</property>
+		<property id="StatusOn" type="boolean">true</property>
+		<property id="FontSize" type="number">-1</property>		
+	</properties>
+	<settings>
+		<setting propertyKey="@Properties.Background" title="@Strings.Background">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+				<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+				<listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.ColorDate" title="@Strings.ColorDate">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+	        	<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+		        <listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.ColorHour" title="@Strings.ColorHour">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+	        	<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+		        <listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.ColorMin" title="@Strings.ColorMin">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+	        	<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+		        <listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.ColorSec" title="@Strings.ColorSec">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+	        	<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+		        <listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.ColorDigit" title="@Strings.ColorDigit">
+			<settingConfig type="list">
+				<listEntry value="0x000000">@Strings.Black</listEntry>
+	        	<listEntry value="0xFFFFFF">@Strings.White</listEntry>
+		        <listEntry value="0xAAAAAA">@Strings.Gray</listEntry>
+		        <listEntry value="0x555555">@Strings.Dark_Gray</listEntry>
+		        <listEntry value="0xFF0000">@Strings.Red</listEntry>
+		        <listEntry value="0xAA0000">@Strings.Dark_Red</listEntry>
+		        <listEntry value="0x00FF00">@Strings.Green</listEntry>
+		        <listEntry value="0x00AA00">@Strings.Dark_Green</listEntry>
+		        <listEntry value="0x00AAFF">@Strings.Blue</listEntry>
+		        <listEntry value="0x0000FF">@Strings.Dark_Blue</listEntry>
+		        <listEntry value="0xFF5500">@Strings.Orange</listEntry>
+		        <listEntry value="0xFFAA00">@Strings.Yellow</listEntry>
+		        <!--COLOR_PURPLE = 0xAA00FF Purple. Not valid on Fenix 3 or D2 Bravo. Use 0x5500AA instead. -->
+		        <listEntry value="0xFF00FF">@Strings.Pink</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.AnimationTime" title="@Strings.AnimationTime">
+			<settingConfig type="numeric" required="true" min="0" max="10" />
+		</setting>
+		<setting propertyKey="@Properties.ArcsOn" title="@Strings.ArcsOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>
+		<setting propertyKey="@Properties.ArcsRoundedOn" title="@Strings.ArcsRoundedOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>
+		<setting propertyKey="@Properties.WidthSize" title="@Strings.WidthSize">
+			<settingConfig type="numeric" required="true" min="1" max="20" />
+		</setting>
+		<setting propertyKey="@Properties.SimpleModeOnSleep" title="@Strings.SimpleModeOnSleep">
+			<settingConfig type="boolean" required="true" />
+		</setting>
+		<setting propertyKey="@Properties.HandsOn" title="@Strings.HandsOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>
+		<setting propertyKey="@Properties.OrbitsOn" title="@Strings.OrbitsOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>
+		<setting propertyKey="@Properties.DigitsOn" title="@Strings.DigitsOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>	
+		<setting propertyKey="@Properties.StatusOn" title="@Strings.StatusOn">
+			<settingConfig type="boolean" required="true" />
+		</setting>		
+		<setting propertyKey="@Properties.FontSize" title="@Strings.FontSize">
+			<settingConfig type="list">
+				<listEntry value="-1">@Strings.Auto</listEntry>
+				<listEntry value="0">@Strings.XTiny</listEntry>
+	        	<listEntry value="1">@Strings.Tiny</listEntry>
+		        <listEntry value="2">@Strings.Small</listEntry>
+		        <listEntry value="3">@Strings.Medium</listEntry>
+		        <listEntry value="4">@Strings.Large</listEntry>
+			</settingConfig>
+		</setting>	
+	</settings>
+</resources>

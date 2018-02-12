@@ -1,0 +1,44 @@
+<strings>
+    <string id="AppName">orbit</string>
+    
+    <string id="Background">Background</string>
+    <string id="ColorDate">Date Color</string>
+ 	<string id="ColorHour">Hour Color</string>
+  	<string id="ColorMin">Min Color</string>
+   	<string id="ColorSec">Sec Color</string>
+   	<string id="ColorDigit">Digit Color</string>
+
+	<string id="AnimationTime">Animation time (sec)</string>
+	<string id="ArcsOn">Arcs</string>
+	<string id="ArcsRoundedOn">Arcs rounded</string>
+	<string id="WidthSize">Width size</string>
+	<string id="SimpleModeOnSleep">Simple mode on low</string>	
+	<string id="HandsOn">Hands</string>
+	<string id="OrbitsOn">Orbits</string>
+	<string id="DigitsOn">Digits</string>
+	<string id="StatusOn">Status (bat and bt)</string>
+	<string id="FontSize">Font size</string>
+	
+	
+	<string id="Black">Black</string>
+	<string id="White">White</string>
+    <string id="Gray">Gray</string>
+    <string id="Dark_Gray">Dark_Gray</string>
+    <string id="Red">Red</string>
+    <string id="Dark_Red">Dark_Red</string>
+    <string id="Green">Green</string>
+    <string id="Dark_Green">Dark_Green</string>
+    <string id="Blue">Blue</string>
+    <string id="Dark_Blue">Dark_Blue</string>
+    <string id="Orange">Orange</string>
+    <string id="Yellow">Yellow</string>
+    <string id="Purple">Purple</string>
+    <string id="Pink">Pink</string>
+    
+	<string id="Auto">Auto</string>
+	<string id="XTiny">XTiny</string>
+    <string id="Tiny">Tiny</string>
+    <string id="Small">Small</string>
+    <string id="Medium">Medium</string>
+    <string id="Large">Large</string>
+</strings>
