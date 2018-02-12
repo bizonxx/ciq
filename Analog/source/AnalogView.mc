@@ -13,6 +13,7 @@ using Toybox.Time.Gregorian;
 using Toybox.WatchUi;
 using Toybox.Application;
 
+
 var partialUpdatesAllowed = false;
 
 // This implements an analog watch face
@@ -30,6 +31,7 @@ class AnalogView extends WatchUi.WatchFace
     var curClip;
     var screenCenterPoint;
     var fullScreenRefresh;
+    var drawableHands;
 
     // Initialize variables for this view
     function initialize() {
@@ -75,6 +77,8 @@ class AnalogView extends WatchUi.WatchFace
         curClip = null;
 
         screenCenterPoint = [dc.getWidth()/2, dc.getHeight()/2];
+        
+        drawableHands = new AnalogHands();
 
     }
 
@@ -281,8 +285,11 @@ class AnalogView extends WatchUi.WatchFace
             // Draw the tick marks around the edges of the screen
         	drawHashMarks(targetDc);
 	        // Draw hands 
-	        drawHands (targetDc, clockTime);
-	
+	        //drawHands (targetDc, clockTime);
+			if ( drawableHands != null) {
+    			drawableHands.draw(dc);
+    		}
+				
 	        // Output the offscreen buffers to the main display if required.
 	        drawBackground(dc);   
 	        //drawHands (targetDc, clockTime);   
