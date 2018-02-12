@@ -24,14 +24,14 @@ var widthSize;
 
 const MAXWIDTH = 60;
 
-class OrbitClock extends Ui.Drawable {
+class AnalogHands extends Ui.Drawable {
 		
 	var simpleMode;
 	var sleepMode;
 	var font;
 	
     function initialize() {
-       Drawable.initialize( { :identifier => "OrbitClock" } );
+       Drawable.initialize( { :identifier => "Hands" } );
        width = MAXWIDTH;   
        sleepMode = true;
        
@@ -123,52 +123,7 @@ class OrbitClock extends Ui.Drawable {
 
 
     }
-    
-    function drawPower(dc, x, y, width, height, power){
-    
-    	x = dc.getWidth() / 2 + x;
-        y = dc.getHeight() / 2 + y;
-            		    	        
 
-    	dc.fillPolygon([[x + width/2 -1 , y + height/2]
-    					,[x - width/2, y + height/2]
-    					,[x - width/2, y - height/3]
-    					,[x - width/3, y - height/3]
-    					,[x - width/3, y - height/2]
-    					,[x + width/3, y - height/2]
-    					,[x + width/3, y - height/3]
-    					,[x + width/2, y - height/3]
-    					,[x + width/2, y + height/2]
-    					
-    					,[x + width/2 -1, y + height/2]
-    					,[x + width/2 -1, y - height/3 +1]
-    					,[x - width/2 +1, y - height/3 +1]
-    					,[x - width/2 +1, y + height/2 -1 - ((height - height/3) * (power/100))]
-    					,[x + width/2 -1, y + height/2 -1 - ((height - height/3) * (power/100))]
-    					]);
-    }
-    
-    function drawBluetoot(dc, x, y, width, height){
-    
-    	x = dc.getWidth() / 2 + x;
-        y = dc.getHeight() / 2 + y;
-   
-    	dc.fillPolygon([[x - width/2 -2, y - height/4]
-    					,[x + width/2, y + height/4]
-    					,[x, y + height/2]
-    					,[x, y - height/2]
-    					,[x + width/2, y - height/4]
-    					,[x - width/2 -2, y + height/4]    
-    										
-    					,[x - width/2, y + height/4 +2]
-    					,[x + width/2 +4, y - height/4]
-    					,[x -2, y - height/2 -4]
-    					,[x -2, y + height/2 +4]
-    					,[x + width/2 +4, y + height/4]
-    					,[x - width/2, y - height/4 -2]
-    					]);
-    	
-    }
     
     function drawHand(dc, angle, length, width)
     {
@@ -242,130 +197,3 @@ class OrbitClock extends Ui.Drawable {
     
 }
 
-class OrbitWatchFaceView extends Ui.WatchFace {
-
-	var drawable;
-    function initialize() {
-        WatchFace.initialize();
-    }
-
-    //! Load your resources here
-    function onLayout(dc) {
-        drawable = new OrbitClock();
-    }
-
-    //! Update the view
-    function onUpdate(dc) {
-
-		dc.setColor(background, background);
-		dc.clear();
-		
-		if ( drawable != null) {
-    		drawable.draw(dc);
-    	}
-		
-	    
-    }
-
-    //! The user has just looked at their watch. Timers and animations may be started here.
-    function onExitSleep() {
-    	if ( drawable != null) {
-    		drawable.sleepMode = false;
-    		Ui.animate(drawable, :width, Ui.ANIM_TYPE_EASE_IN_OUT , 0, MAXWIDTH, animationTime, null);
-    	}
-    }
-
-    //! Terminate any active timers and prepare for slow updates.
-    function onEnterSleep() {
-    	if ( drawable != null) {
-    		drawable.sleepMode = true;
-    		drawable.width = MAXWIDTH;
-    		Ui.requestUpdate();
-    	}
-    }
-
-}
-
-
-class OrbitWatchFaceApp extends App.AppBase {
-
-    function initialize() {
-        AppBase.initialize();
-		getSettings();
-    }
-    
-    function getSettings(){
-	
-		background = getProperty( "Background" );
-    	background = background != null ? background : Gfx.COLOR_BLACK;
-    	
-    	colorDate = getProperty( "ColorDate" );
-        colorDate = colorDate != null ? colorDate : Gfx.COLOR_YELLOW;
-        
-        colorHour = getProperty( "ColorHour" );
-        colorHour = colorHour != null ? colorHour : Gfx.COLOR_BLUE;
-        
-        colorMin = getProperty( "ColorMin" );
-        colorMin = colorMin != null ? colorMin : Gfx.COLOR_GREEN;        
-        
-        colorSec = getProperty( "ColorSec" );
-        colorSec = colorSec != null ? colorSec : Gfx.COLOR_RED;
-        
-        colorDigit = getProperty( "ColorDigit" );
-        colorDigit = colorDigit != null ? colorDigit : Gfx.COLOR_BLACK;
-    	
-    	animationTime = getProperty( "AnimationTime" );
-        animationTime = animationTime != null ? animationTime : 2;
-        
-        arcsOn = getProperty( "ArcsOn" );
-        arcsOn = arcsOn != null ? arcsOn : false;
-        
-        arcsRoundedOn = getProperty( "ArcsRoundedOn" );
-        arcsRoundedOn = arcsRoundedOn != null ? arcsRoundedOn : true;
-        
-        simpleModeOnSleep = getProperty( "SimpleModeOnSleep" );
-        simpleModeOnSleep = simpleModeOnSleep != null ? simpleModeOnSleep : true;
-        
-        handsOn = getProperty( "HandsOn" );
-        handsOn = handsOn != null ? handsOn : false;
-        
-        orbitsOn = getProperty( "OrbitsOn" );
-        orbitsOn = orbitsOn != null ? orbitsOn : true;
-
-        digitsOn = getProperty( "DigitsOn" );
-        digitsOn = digitsOn != null ? digitsOn : true;
-        
-        statusOn = getProperty( "StatusOn" );
-        statusOn = statusOn != null ? statusOn : true;
-        
-        fontSize = getProperty( "FontSize" );
-        fontSize = fontSize != null ? fontSize : -1;
-        
-        widthSize = getProperty( "WidthSize" );
-        widthSize = 25 - (widthSize != null ? widthSize : 15);
-}
-
-    
-
-    //! onStart() is called on application start up
-    function onStart(state) {
-    }
-
-    //! onStop() is called when your application is exiting
-    function onStop(state) {
-    }
-    
-     function onSettingsChanged() {
-    
-    	getSettings();
-    	
-        Ui.requestUpdate();
-    }
-
-    //! Return the initial view of your application here
-    function getInitialView() {
-    
-        return [ new OrbitWatchFaceView() ];
-    }
-
-}
