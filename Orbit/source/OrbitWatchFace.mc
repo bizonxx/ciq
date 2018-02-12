@@ -202,6 +202,8 @@ class OrbitClock extends Ui.Drawable {
         if ( handsOn ){
         	drawHand(dc, angle, length + width/4, width/2);       
         }
+        
+        return;
                 
         if( orbit ) {
 
@@ -284,7 +286,15 @@ class OrbitWatchFaceView extends Ui.WatchFace {
 
 }
 
-	function getSettings(){
+
+class OrbitWatchFaceApp extends App.AppBase {
+
+    function initialize() {
+        AppBase.initialize();
+		getSettings();
+    }
+    
+    function getSettings(){
 	
 		background = getProperty( "Background" );
     	background = background != null ? background : Gfx.COLOR_BLACK;
@@ -333,21 +343,16 @@ class OrbitWatchFaceView extends Ui.WatchFace {
         
         widthSize = getProperty( "WidthSize" );
         widthSize = 25 - (widthSize != null ? widthSize : 15);
-	}
+}
 
-class OrbitWatchFaceApp extends App.AppBase {
-
-    function initialize() {
-        AppBase.initialize();
-		getSettings();
-    }
+    
 
     //! onStart() is called on application start up
-    function onStart() {
+    function onStart(state) {
     }
 
     //! onStop() is called when your application is exiting
-    function onStop() {
+    function onStop(state) {
     }
     
      function onSettingsChanged() {
