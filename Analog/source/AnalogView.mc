@@ -28,6 +28,11 @@ class AnalogView extends WatchUi.WatchFace
     var isAwake;
     var screenShape;
     var stepsIcon;
+    var phoneIcon;
+    var nophoneIcon;
+    var dndIcon;
+    var alarmIcon;
+    var notiIcon;
     var offscreenBuffer;
     var curClip;
     var screenCenterPoint;
@@ -50,10 +55,35 @@ class AnalogView extends WatchUi.WatchFace
         font = WatchUi.loadResource(Rez.Fonts.id_font_black_diamond);
 
 		// Load the background image into memory
-		bkgImage = WatchUi.loadResource(Rez.Drawables.BackgroundImage);
+		bkgImage = null;//WatchUi.loadResource(Rez.Drawables.BackgroundImage);
 		
 		stepsIcon = WatchUi.loadResource(Rez.Drawables.StepsIcon); 
-               
+		if (System.getDeviceSettings() has :phoneConnected) {
+			phoneIcon = WatchUi.loadResource(Rez.Drawables.PhoneIcon); 
+			nophoneIcon = WatchUi.loadResource(Rez.Drawables.NoPhoneIcon); 
+		} else {
+			phoneIcon = null;
+			nophoneIcon = null;
+		}
+		if (System.getDeviceSettings() has :doNotDisturb) {
+            dndIcon = WatchUi.loadResource(Rez.Drawables.DndIcon);
+        } else {
+            dndIcon = null;
+        }
+        
+        if (System.getDeviceSettings() has :alarmCount ) {
+            alarmIcon = WatchUi.loadResource(Rez.Drawables.AlarmIcon);
+        } else {
+            alarmIcon = null;
+        }
+        
+        if (System.getDeviceSettings() has :notificationCount ) {
+            notiIcon = WatchUi.loadResource(Rez.Drawables.NotificationIcon);
+        } else {
+            notiIcon = null;
+        }
+	
+		   
         // If this device supports BufferedBitmap, allocate the buffers we use for drawing
         if(Toybox.Graphics has :BufferedBitmap) {
             // Allocate a full screen size buffer with a palette of only 5 colors to draw
@@ -84,30 +114,68 @@ class AnalogView extends WatchUi.WatchFace
        
     }
 
-    // This function is used to generate the coordinates of the 4 corners of the polygon
-    // used to draw a watch hand. The coordinates are generated with specified length,
-    // tail length, and width and rotated around the center point at the provided angle.
-    // 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.
-      function generateHandCoordinates(centerPoint, angle, handLength, tailLength, width) {
-        // Map out the coordinates of the watch hand
-        var coords = [[-(width/2), tailLength], [-(width / 2), -handLength], [width / 2, -handLength]  , [width/2 , tailLength]];
-        
-        var result = new [4];
-        var cos = Math.cos(angle);
-        var sin = Math.sin(angle);
+    // Handle the update event
+    function onUpdate(dc) {
+        var width;
+        var height;
+    	var clockTime = System.getClockTime();
+        var secondHand;
+        var targetDc = null;
 
-        // Transform the coordinates
-        for (var i = 0; i < 4; i += 1) {
-            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
-            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+        bkgColor = Graphics.COLOR_BLACK;//Application.getApp().getProperty("BackgroundColor");
+        forColor = Graphics.COLOR_WHITE;//Application.getApp().getProperty("ForegroundColor");
+ 
+        // We always want to refresh the full screen when we get a regular onUpdate call.
+        fullScreenRefresh = true;
 
-            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
+        if(null != offscreenBuffer) {
+            dc.clearClip();
+            curClip = null;
+            // If we have an offscreen buffer that we are using to draw the background,
+            // set the draw context of that buffer as our target.
+            targetDc = offscreenBuffer.getDc();
+        } else {
+            targetDc = dc;
         }
 
-        return result;
+        width = targetDc.getWidth();
+        height = targetDc.getHeight();
+        
+
+        // Fill the entire background with Black.
+        targetDc.setColor(bkgColor, Graphics.COLOR_WHITE);
+        targetDc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
+
+		// Draw background image
+		if(bkgImage != null){
+			targetDc.drawBitmap(width/2 - 150/2, height/2 - 140/2 , bkgImage); 
+		}
+        
+  		// Draw status icons
+        drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );
+         //Draw the date string 
+    	drawDateString( targetDc, width *0.75  , height *0.5 - dc.getFontHeight(font)/2 +3);
+    	if( width <=height ){
+   			drawBattString( targetDc, width*0.12 , height *0.5 - dc.getFontHeight(font)*0.5);
+   			drawStepsString( targetDc, width /2, (height - dc.getFontHeight(fontClock)*2) );
+ 		}
+        // Draw the tick marks around the edges of the screen
+    	drawHashMarks(targetDc);
+        // Draw hands 
+        //drawHands (targetDc, clockTime);
+
+		analogHands.draw(targetDc);
+        // Output the offscreen buffers to the main display if required.
+        drawBackground(dc);   
+        
+        if( partialUpdatesAllowed ){
+        	onPartialUpdate(dc);
+        }
+	        
+        fullScreenRefresh = false;
     }
 
-    // Draws the clock tick marks around the outside edges of the screen.
+  // Draws the clock tick marks around the outside edges of the screen.
     function drawHashMarks(dc) {
         var width = dc.getWidth();
         var height = dc.getHeight();
@@ -161,65 +229,6 @@ class AnalogView extends WatchUi.WatchFace
  
  
     }
-
-    // Handle the update event
-    function onUpdate(dc) {
-        var width;
-        var height;
-    	var clockTime = System.getClockTime();
-        var secondHand;
-        var targetDc = null;
-
-        bkgColor = Graphics.COLOR_BLACK;//Application.getApp().getProperty("BackgroundColor");
-        forColor = Graphics.COLOR_WHITE;//Application.getApp().getProperty("ForegroundColor");
- 
-        // We always want to refresh the full screen when we get a regular onUpdate call.
-        fullScreenRefresh = true;
-
-        if(null != offscreenBuffer) {
-            dc.clearClip();
-            curClip = null;
-            // If we have an offscreen buffer that we are using to draw the background,
-            // set the draw context of that buffer as our target.
-            targetDc = offscreenBuffer.getDc();
-        } else {
-            targetDc = dc;
-        }
-
-        width = targetDc.getWidth();
-        height = targetDc.getHeight();
-        
-
-        // Fill the entire background with Black.
-        targetDc.setColor(bkgColor, Graphics.COLOR_WHITE);
-        targetDc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
-
-		// Draw background image
-		//targetDc.drawBitmap(width/2 - 150/2, height/2 - 140/2 , bkgImage);
-        
-        
-         //Draw the date string 
-    	drawDateString( targetDc, width *0.75  , height *0.5 - dc.getFontHeight(font)/2 +2);
-    	if( width <=height ){
-   			drawBattString( targetDc, width /2 , dc.getFontHeight(fontClock)*1.5);
-   			drawStepsString( targetDc, width /2, (height - dc.getFontHeight(fontClock)*2.5) );
- 		}
-        // Draw the tick marks around the edges of the screen
-    	drawHashMarks(targetDc);
-        // Draw hands 
-        //drawHands (targetDc, clockTime);
-
-		analogHands.draw(targetDc);
-        // Output the offscreen buffers to the main display if required.
-        drawBackground(dc);   
-        
-        if( partialUpdatesAllowed ){
-        	onPartialUpdate(dc);
-        }
-	        
-        fullScreenRefresh = false;
-    }
-
     // Draw the date string into the provided buffer at the specified location
     function drawDateString( dc, x, y ) {
         var info = Gregorian.info(Time.now(), Time.FORMAT_LONG);
@@ -239,12 +248,46 @@ class AnalogView extends WatchUi.WatchFace
         dc.drawText(x + fontHeight/2 +2 , y-2 , font /*Graphics.FONT_TINY*/,dateStr, Graphics.TEXT_JUSTIFY_CENTER); 
     }
     
-  
+   // draw status Icons
+   function drawStatusIcons(dc, x, y) {
+   
+   		
+   		var icons = new [4];
+
+   		var width = 0;
+   		
+   		// Draw phone connection status Icon
+   		if (null != alarmIcon && System.getDeviceSettings().alarmCount >0 ){
+         	icons[0] = alarmIcon;
+         	width += icons[0].getWidth();
+        }
+        if (null != phoneIcon ){
+         	icons[1] = System.getDeviceSettings().phoneConnected ? phoneIcon : nophoneIcon;
+         	width += icons[1].getWidth();
+        }
+        if (null != dndIcon && System.getDeviceSettings().doNotDisturb){
+         	icons[2] = dndIcon;
+         	width += icons[2].getWidth();
+        }
+        
+         if (null != notiIcon && System.getDeviceSettings().notificationCount >0 ) {
+            icons[3] = notiIcon;
+            width += icons[3].getWidth();
+        } 
+        
+        width = x - width/2;
+   		for ( var i =0 ; i < 4 ;i++ ){
+   			if(icons[i] != null){
+   				dc.drawBitmap(width, y, icons[i]);
+   				width += icons[i].getWidth();
+   			}
+   		}
+   }
     // Draw the baterry string into the provided buffer at the specified location
     function drawBattString( dc, x, y ) {
 
    		// Draw the battery percentage directly to the main screen.
-        var dataString = (System.getSystemStats().battery + 0.5).toNumber().toString() + "%";
+        var dataString ="";// (System.getSystemStats().battery + 0.5).toNumber().toString() + "%";
 		var fontHeight = dc.getFontHeight(font/*Graphics.FONT_TINY*/);
         // Also draw the background process data if it is available.
         /*var backgroundData = Application.getApp().temperature;
