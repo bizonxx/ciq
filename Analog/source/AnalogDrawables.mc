@@ -1,199 +1,184 @@
-using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
-using Toybox.Time.Gregorian as Calendar;
-using Toybox.Lang as Lang;
 
-var background;
-var colorDate;
-var colorHour;
-var colorMin;
-var colorSec;
-var colorDigit;
-var animationTime;
-var arcsOn;
-var arcsRoundedOn;
-var simpleModeOnSleep;
-var handsOn;
-var orbitsOn;
-var digitsOn;
-var statusOn;
-var fontSize;
-var widthSize;
 
 const MAXWIDTH = 60;
 
 class AnalogHands extends Ui.Drawable {
 		
-	var simpleMode;
+	var angleOffset;
 	var sleepMode;
-	var font;
+	var handColor;
 	
-    function initialize() {
-       Drawable.initialize( { :identifier => "Hands" } );
-       width = MAXWIDTH;   
+	hidden var centerPoint;
+	hidden var maxLenght;
+
+    function initialize(x , y, lenght) {
+       Drawable.initialize( { :identifier => "AnalogHands" } );
+
+       angleOffset = MAXWIDTH;
        sleepMode = true;
+       handColor = Gfx.COLOR_WHITE;
+       
+       centerPoint = [x, y];
+       maxLenght = lenght;
        
     }
+       
+    
     function draw(dc){
        
-        var hourAngle;
-        var minAngle;
-        var secAngle;
-        
-        var fontHeight;
-                     
-        var info = Calendar.info(Time.now(), Time.FORMAT_MEDIUM);
-        var dateStr = Lang.format("$1$ $2$", [info.day_of_week.substring(0,2), info.day]);
         var clockTime = Sys.getClockTime();
         
-        var offset = dc.getHeight() > dc.getWidth() ? dc.getWidth() : dc.getHeight();
-        var ringWidth = offset /widthSize;
-        
-        font = fontSize;
-                
-        if ( font < 0 ) {
-
-	        font = Gfx.FONT_LARGE;
-	        var fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-	
-		    if ( fontHeight > ringWidth ) {
-		   		font = Gfx.FONT_MEDIUM;
-		   		fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-		    }
-		    if ( fontHeight > ringWidth ) {
-		   		font = Gfx.FONT_SMALL;
-		   		fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-		    }
-		    if ( fontHeight > ringWidth ) {
-		   		font = Gfx.FONT_TINY;
-		   		fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-		    }
-		   	if ( fontHeight > ringWidth ) {
-		   		font = Gfx.FONT_XTINY;
-		   		fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-		    }
-	    } 
-	    fontHeight = Gfx.getFontHeight(font) - Gfx.getFontDescent(font)*2;
-	   
-	   if ( !sleepMode && !digitsOn && statusOn ) {
-	   		dc.setColor(colorDate, Gfx.COLOR_TRANSPARENT);
-	   		drawPower(dc, 0, -ringWidth - fontHeight/4, fontHeight/2 + fontHeight/8, fontHeight - fontHeight/8, Sys.getSystemStats().battery);
-	   		if ( Sys.getDeviceSettings().phoneConnected ) {
-       			drawBluetoot(dc, 0, ringWidth + fontHeight/4, fontHeight/2 + fontHeight/8, fontHeight - fontHeight/8);
-       		}
-	   	    
-	   }
-
-        // Draw the hour
-        hourAngle = ( ( clockTime.hour % 12 ) * 60 ) + clockTime.min ;
-        hourAngle = ( (( width.toLong() + hourAngle / 12) % 60 ) / 60.0 ) * Math.PI * 2;
-        dc.setColor(colorHour ,Gfx.COLOR_TRANSPARENT);
-		drawRing(dc, sleepMode && simpleModeOnSleep || (width + (( ( clockTime.hour % 12 ) * 60 ) + clockTime.min) /12 ) < 60 ? hourAngle : 0, hourAngle, offset/2 - ringWidth*2 - ringWidth/4, ringWidth, orbitsOn, digitsOn ? clockTime.hour == 12 ? 12 : System.getDeviceSettings().is24Hour ? clockTime.hour : clockTime.hour % 12 : null); 
-         
-        // Draw the minute  
-        minAngle = ( (( width.toLong() + clockTime.min ) % 60 ) / 60.0 ) * Math.PI * 2;     
-        dc.setColor(colorMin ,Gfx.COLOR_TRANSPARENT);
-        drawRing(dc, sleepMode && simpleModeOnSleep || (width + clockTime.min) < 60 ? minAngle : 0, minAngle, offset/2 - ringWidth + ringWidth/3, ringWidth, orbitsOn, digitsOn ? clockTime.min : null);
-        
-	
-	    // Draw the second
-	    secAngle = ( (( width.toLong() + clockTime.sec) % 60 ) / 60.0 ) * Math.PI * 2;
-		if ( !sleepMode ){
-	        
-	        dc.setColor(colorSec ,Gfx.COLOR_TRANSPARENT);
-	        drawRing(dc,  secAngle, secAngle, offset/2 - ringWidth + ringWidth/3, ringWidth, false, digitsOn ? clockTime.sec : null);
-	    }
-	    		
-		//Draw the date    
-		dc.setColor(colorDate, Gfx.COLOR_TRANSPARENT);
-		if ( digitsOn ){     
-        	drawRing(dc, 0, 0, 0, ringWidth*2 + ringWidth/4, false, dateStr);
-        	if ( !sleepMode && statusOn ) {
-        		dc.setColor(colorDigit, Gfx.COLOR_TRANSPARENT);
-        		drawPower(dc, 0, -ringWidth - fontHeight/4, fontHeight/2 + fontHeight/8, fontHeight - fontHeight/8, Sys.getSystemStats().battery);
-       			if ( Sys.getDeviceSettings().phoneConnected ) {
-       				drawBluetoot(dc, 0, ringWidth + fontHeight/4, fontHeight/2 + fontHeight/8, fontHeight - fontHeight/4);
-       			}       
-       		}
-       	} else {
-       		drawRing(dc, 0, 0, 0, ringWidth/2, false, "");
-       	}
-
-
+        // Draw hands
+        drawHands(dc, clockTime); 
+    	
     }
 
-    
-    function drawHand(dc, angle, length, width)
-    {
+    // This function is used to generate the coordinates of the 4 corners of the polygon
+    // used to draw a watch hand. The coordinates are generated with specified length,
+    // tail length, and width and rotated around the center point at the provided angle.
+    // 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.
+    function generateHandCoordinates(centerPoint, angle, handLength, tailLength, width) {
         // Map out the coordinates of the watch hand
-        var coords = [ [-(width/2),0], [-(width/2), -length], [width/2, -length], [width/2, 0] ];
+        var coords = [[-(width/2), tailLength], [-(width / 2), -handLength], [width / 2, -handLength]  , [width/2 , tailLength]];
+        
         var result = new [4];
-        var centerX = dc.getWidth() / 2;
-        var centerY = dc.getHeight() / 2;
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
 
         // Transform the coordinates
-        for (var i = 0; i < 4; i += 1)
-        {
-            var x = (coords[i][0] * cos) - (coords[i][1] * sin);
-            var y = (coords[i][0] * sin) + (coords[i][1] * cos);
-            result[i] = [ centerX+x, centerY+y];
+        for (var i = 0; i < 4; i += 1) {
+            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
+            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+
+            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
         }
 
-        // Draw the polygon
-        dc.fillPolygon(result);
-        dc.fillCircle(centerX + (length * sin), centerY - (length * cos), width/2 );
-
-    }
-        
-    function drawRing(dc, angleStart, angle, length, width, orbit, text)
-    {
-        var centerX = dc.getWidth() / 2;
-        var centerY = dc.getHeight() / 2;
-        
-        if ( handsOn ){
-        	drawHand(dc, angle, length + width/4, width/2);       
-        }
-        
-        return;
-                
-        if( orbit ) {
-
- 			dc.setPenWidth(1);
-			dc.drawCircle(centerX, centerY , length);
-			
-        } 
-        
-	    if( angleStart != angle ){
-	    	if ( arcsOn ){
-	        	if( dc has :drawArc ){			
-					dc.setPenWidth(width);
-			 		dc.drawArc(centerX, centerY, length,  Gfx.ARC_CLOCKWISE, -( angleStart/(Math.PI * 2)*360 )+90, -( angle/(Math.PI * 2)*360 )+90);
-			 		if ( arcsRoundedOn ){
-			 			dc.fillCircle(centerX, centerY - length, width/2);
-			 			dc.fillCircle(centerX + (length * Math.sin(angle)), centerY - (length * Math.cos(angle)), width/2 );
-			 		}
-		  
-		 		} else {
-	 				dc.drawText(centerX, centerY+50, Gfx.FONT_SMALL, "Please,", Gfx.TEXT_JUSTIFY_CENTER | Gfx.TEXT_JUSTIFY_VCENTER);
-	 				dc.drawText(centerX, centerY+65, Gfx.FONT_SMALL, "update firmware", Gfx.TEXT_JUSTIFY_CENTER | Gfx.TEXT_JUSTIFY_VCENTER);
-	 			}
- 			}
- 		} 
- 		 
- 		if ( text != null ){
-	 		dc.fillCircle(centerX + ( length * Math.sin(angle) ), centerY - ( length * Math.cos(angle) ), width/2 + width/3);
-	        dc.setColor(colorDigit, Gfx.COLOR_TRANSPARENT);
-	        dc.drawText(centerX + ( length * Math.sin(angle) ), centerY - ( length * Math.cos(angle) ), font, text, Gfx.TEXT_JUSTIFY_CENTER | Gfx.TEXT_JUSTIFY_VCENTER);
-		} else if( !handsOn && (!arcsOn || sleepMode && simpleModeOnSleep) ){
-			dc.fillCircle(centerX + (length * Math.sin(angle)), centerY - (length * Math.cos(angle)), width/2 );
-		}
-	    
-
+        return result;
     }
     
+    function generateHandCoordinates1(centerPoint, angle, handLength, tailLength, width, tailwidthLength) {
+        // Map out the coordinates of the watch hand
+        var coords = [[-(width*0.75), tailLength], [-(width*0.75), tailwidthLength ] , [-(width /2), tailwidthLength ], [-(width / 2), -handLength], [ 1 / 2, - handLength - width], [width / 2, -handLength] ,[width / 2, tailwidthLength]  , [width*0.75 , tailwidthLength] , [width*0.75 , tailLength]];
+        //var coords = [[-(width/2), tailLength], [-(width / 2), -handLength], [width / 2, -handLength]  , [width/2 , tailLength]];
+        
+        var result = new [9];
+        var cos = Math.cos(angle);
+        var sin = Math.sin(angle);
+	
+        // Transform the coordinates
+        for (var i = 0; i < 9; i += 1) {
+            
+            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
+            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+
+            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
+         }
+       
+        return result;
+    }
+    
+    function generateHandCoordinates2(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
+        // Map out the coordinates of the watch hand
+        var coords = [[-(widthStart / 2), tailLength], [-(widthEnd / 2), -handLength], [widthEnd / 2, -handLength], [widthStart / 2, tailLength]];
+        var result = new [4];
+        var cos = Math.cos(angle);
+        var sin = Math.sin(angle);
+
+        // Transform the coordinates
+        for (var i = 0; i < 4; i += 1) {
+            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
+            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+
+            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
+        }
+
+        return result;
+    }
+    
+    function generateHandCoordinates3(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
+        // Map out the coordinates of the watch hand
+        var coords = [[-(widthStart / 2), tailLength], [-(widthEnd / 2), -handLength], [1 / 2, -handLength], [1 / 2, tailLength]];
+        var result = new [4];
+        var cos = Math.cos(angle);
+        var sin = Math.sin(angle);
+
+        // Transform the coordinates
+        for (var i = 0; i < 4; i += 1) {
+            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
+            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+
+            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
+        }
+
+        return result;
+    }
+    function generateHandCoordinates4(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
+        // Map out the coordinates of the watch hand
+        var coords = [[-(1 / 2), tailLength], [-(1 / 2), -handLength], [widthEnd / 2, -handLength], [widthStart / 2, tailLength]];
+        var result = new [4];
+        var cos = Math.cos(angle);
+        var sin = Math.sin(angle);
+
+        // Transform the coordinates
+        for (var i = 0; i < 4; i += 1) {
+            var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
+            var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
+
+            result[i] = [centerPoint[0] + x, centerPoint[1] + y];
+        }
+
+        return result;
+    }
+    
+    function drawHands(dc, clockTime)
+    {
+    
+        var minuteHandAngle;
+        var hourHandAngle;
+        var secondHandAngle;
+        
+        dc.setColor(handColor ,Gfx.COLOR_TRANSPARENT);
+        // Draw the hour hand. Convert it to minutes and compute the angle.
+        // :angleOffset drawable variable used for animation 
+        hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);       
+        hourHandAngle = ( (( angleOffset.toLong() + hourHandAngle / 12) % 60 ) / 60.0 ) * Math.PI * 2;        
+        dc.fillPolygon(generateHandCoordinates(centerPoint, hourHandAngle, maxLenght*0.7, maxLenght*0.1, maxLenght*0.05));
+        
+        // Draw the minute hand.
+        minuteHandAngle = ( (( angleOffset.toLong() + clockTime.min ) % 60 ) / 60.0 ) * Math.PI * 2;       
+        dc.fillPolygon(generateHandCoordinates(centerPoint, minuteHandAngle, maxLenght*0.9, maxLenght*0.1, maxLenght*0.03));
+        
+        dc.setColor(Gfx.COLOR_DK_RED ,Gfx.COLOR_TRANSPARENT);
+        dc.fillCircle(centerPoint[0], centerPoint[1], 6);
+        if ( ! sleepMode ){
+        	 var points = getSecondHandPoints(clockTime);
+	         drawSecondHand(dc, points);
+        }
+
+         
+    }
+    
+    function getSecondHandPoints(clockTime)
+    {
+        var secondHandPoints;
+        var secondHandAngle;
+ 
+        secondHandAngle = ( (( angleOffset.toLong() + clockTime.sec ) % 60 ) / 60.0 ) * Math.PI * 2; 
+        secondHandPoints = generateHandCoordinates(centerPoint, secondHandAngle, maxLenght-2, maxLenght*0.2, maxLenght*0.02);
+ 
+        return secondHandPoints;
+    }
+    
+    function drawSecondHand(dc, secondHandPoints)
+    {
+    	dc.setColor(Gfx.COLOR_DK_RED ,Gfx.COLOR_TRANSPARENT);
+        dc.fillPolygon(secondHandPoints);
+
+    }
+        
+       
 }
 
