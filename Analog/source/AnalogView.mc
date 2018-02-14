@@ -34,6 +34,7 @@ class AnalogView extends WatchUi.WatchFace
     var alarmIcon;
     var notiIcon;
     var offscreenBuffer;
+    var dateBuffer;
     var curClip;
     var screenCenterPoint;
     var fullScreenRefresh;
@@ -95,12 +96,18 @@ class AnalogView extends WatchUi.WatchFace
                 :palette=> [
                     Graphics.COLOR_LT_GRAY,
                     Graphics.COLOR_DK_RED,
-                    Graphics.COLOR_RED,
+                    //Graphics.COLOR_RED,
                     Graphics.COLOR_BLACK,
                     Graphics.COLOR_WHITE
                 ]
                 //,:bitmapResource => bkgImage
-            });
+          });
+            // Allocate a buffer tall enough to draw the date into the full width of the
+            // screen. This buffer is also used for blanking the second hand. This full
+            // color buffer is needed because anti-aliased fonts cannot be drawn into
+            // a buffer with a reduced color palette
+            dateBuffer = null;//new Graphics.BufferedBitmap({ :width=>dc.getWidth(), :height=>Graphics.getFontHeight(Graphics.FONT_MEDIUM) });
+
 
         } else {
             offscreenBuffer = null;
@@ -110,7 +117,7 @@ class AnalogView extends WatchUi.WatchFace
 
         screenCenterPoint = [dc.getWidth()/2, dc.getHeight()/2];
         
-        analogHands = new AnalogHands(screenCenterPoint[0], screenCenterPoint[1], (screenCenterPoint[0] > screenCenterPoint[1] ? screenCenterPoint[1] : screenCenterPoint[0]) - 2);
+        analogHands = new AnalogHandsClassy(screenCenterPoint[0], screenCenterPoint[1], (screenCenterPoint[0] > screenCenterPoint[1] ? screenCenterPoint[1] : screenCenterPoint[0]) - 2);
        
     }
 
@@ -150,21 +157,32 @@ class AnalogView extends WatchUi.WatchFace
 		if(bkgImage != null){
 			targetDc.drawBitmap(width/2 - 150/2, height/2 - 140/2 , bkgImage); 
 		}
-        
-  		// Draw status icons
-        drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );
-         //Draw the date string 
-    	drawDateString( targetDc, width *0.75  , height *0.5 - dc.getFontHeight(font)/2 +3);
-    	if( width <=height ){
-   			drawBattString( targetDc, width*0.12 , height *0.5 - dc.getFontHeight(font)*0.5);
-   			drawStepsString( targetDc, width /2, (height - dc.getFontHeight(fontClock)*2) );
- 		}
-        // Draw the tick marks around the edges of the screen
+		
+		// Draw the tick marks around the edges of the screen
     	drawHashMarks(targetDc);
-        // Draw hands 
-        //drawHands (targetDc, clockTime);
+        
+        // Draw status icons
+        drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );
+        drawStepsString( targetDc, width /2, (height - dc.getFontHeight(fontClock)*2) );
+        drawBattString( targetDc, width*0.12 , height *0.5 - dc.getFontHeight(font)*0.5);
+  		
+         //Draw the date string                
+    	drawDateString( targetDc, width *0.75  , height *0.5 - dc.getFontHeight(font)/2 +3);
+		
+   	      // Draw hands 
+        analogHands.draw(targetDc);
+        /*    
+        if( null != dateBuffer ) {
+            var dateDc = dateBuffer.getDc();
 
-		analogHands.draw(targetDc);
+            //Draw the background image buffer into the date buffer to set the background
+            dateDc.drawBitmap(0, -(height /2), offscreenBuffer);
+
+            //Draw the date string into the buffer.
+            drawDateString( dateDc, width / 2, 0 );
+   
+        }
+        */
         // Output the offscreen buffers to the main display if required.
         drawBackground(dc);   
         
@@ -388,7 +406,16 @@ class AnalogView extends WatchUi.WatchFace
             dc.drawBitmap(0, 0, offscreenBuffer);
         	
         }
-
+        /*
+         // Draw the date
+        if( null != dateBuffer ) {
+            // If the date is saved in a Buffered Bitmap, just copy it from there.
+            dc.drawBitmap(0, (screenCenterPoint[1]), dateBuffer );
+        } else {
+            // Otherwise, draw it from scratch.
+            drawDateString( dc, screenCenterPoint[0]+screenCenterPoint[0]/2, screenCenterPoint[1]);
+        }
+		*/
     }
 
     // This method is called when the device re-enters sleep mode.

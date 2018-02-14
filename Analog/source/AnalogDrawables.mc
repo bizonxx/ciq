@@ -5,13 +5,58 @@ using Toybox.System as Sys;
 
 const MAXWIDTH = 60;
 
+class AnalogHandsClassy extends AnalogHands{
+
+	function initialize(x , y, lenght) {
+       
+       AnalogHands.initialize(x, y, lenght);     
+    }
+	function drawHands (dc ,clockTime){
+	
+	    var minuteHandAngle;
+        var hourHandAngle;
+        var secondHandAngle;
+        
+        
+        // Draw the hour hand. Convert it to minutes and compute the angle.
+        // :angleOffset drawable variable used for animation 
+        hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);       
+        hourHandAngle = ( (( angleOffset.toLong() + hourHandAngle / 12) % 60 ) / 60.0 ) * Math.PI * 2;        
+        dc.setColor(handColor ,Gfx.COLOR_TRANSPARENT);     
+        dc.fillPolygon(generateHandCoordinates([centerX, centerY], hourHandAngle, maxLenght*0.7, 0, 10 ));
+        dc.fillCircle(centerX + (maxLenght*0.7 * Math.sin(hourHandAngle)), centerY - (maxLenght*0.7 * Math.cos(hourHandAngle)), 5 );
+        dc.setColor(Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
+        dc.fillPolygon(generateHandCoordinates([centerX + maxLenght*0.3* Math.sin(hourHandAngle), centerY - maxLenght*0.3* Math.cos(hourHandAngle) ], hourHandAngle, maxLenght*0.4, 0, 6 ));
+        dc.fillCircle(centerX + maxLenght*0.7* Math.sin(hourHandAngle), centerY - maxLenght*0.7* Math.cos(hourHandAngle), 3 );
+   
+        
+        // Draw the minute hand.
+        minuteHandAngle = ( (( angleOffset.toLong() + clockTime.min ) % 60 ) / 60.0 ) * Math.PI * 2;       
+        dc.setColor(handColor ,Gfx.COLOR_TRANSPARENT); 
+        dc.fillPolygon(generateHandCoordinates([centerX , centerY], minuteHandAngle, maxLenght*0.9, 0, 8));    
+        dc.fillCircle(centerX + (maxLenght*0.9 * Math.sin(minuteHandAngle)), centerY - (maxLenght*0.9 * Math.cos(minuteHandAngle)), 4 );    
+        dc.setColor(Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
+        dc.fillPolygon(generateHandCoordinates([centerX + maxLenght*0.3* Math.sin(minuteHandAngle), centerY - maxLenght*0.3* Math.cos(minuteHandAngle) ], minuteHandAngle, maxLenght*0.6, 0, 4 ));
+        dc.fillCircle(centerX + maxLenght*0.9* Math.sin(minuteHandAngle), centerY - maxLenght*0.9* Math.cos(minuteHandAngle), 2 );
+   
+        
+        dc.setColor(Gfx.COLOR_DK_RED ,Gfx.COLOR_TRANSPARENT);
+        dc.fillCircle(centerX, centerY, 5);
+        if ( ! sleepMode ){
+        	 var points = getSecondHandPoints(clockTime);
+	         drawSecondHand(dc, points);
+        }
+	}
+}
+
 class AnalogHands extends Ui.Drawable {
 		
 	var angleOffset;
 	var sleepMode;
 	var handColor;
 	
-	hidden var centerPoint;
+	hidden var centerX;
+	hidden var centerY;
 	hidden var maxLenght;
 
     function initialize(x , y, lenght) {
@@ -21,7 +66,8 @@ class AnalogHands extends Ui.Drawable {
        sleepMode = true;
        handColor = Gfx.COLOR_WHITE;
        
-       centerPoint = [x, y];
+       centerX = x;
+       centerY = y;
        maxLenght = lenght;
        
     }
@@ -145,14 +191,14 @@ class AnalogHands extends Ui.Drawable {
         // :angleOffset drawable variable used for animation 
         hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);       
         hourHandAngle = ( (( angleOffset.toLong() + hourHandAngle / 12) % 60 ) / 60.0 ) * Math.PI * 2;        
-        dc.fillPolygon(generateHandCoordinates(centerPoint, hourHandAngle, maxLenght*0.7, maxLenght*0.1, maxLenght*0.05));
+        dc.fillPolygon(generateHandCoordinates([centerX , centerY], hourHandAngle, maxLenght*0.7, maxLenght*0.1, maxLenght*0.05));
         
         // Draw the minute hand.
         minuteHandAngle = ( (( angleOffset.toLong() + clockTime.min ) % 60 ) / 60.0 ) * Math.PI * 2;       
-        dc.fillPolygon(generateHandCoordinates(centerPoint, minuteHandAngle, maxLenght*0.9, maxLenght*0.1, maxLenght*0.03));
+        dc.fillPolygon(generateHandCoordinates([centerX , centerY], minuteHandAngle, maxLenght*0.9, maxLenght*0.1, maxLenght*0.03));
         
         dc.setColor(Gfx.COLOR_DK_RED ,Gfx.COLOR_TRANSPARENT);
-        dc.fillCircle(centerPoint[0], centerPoint[1], 6);
+        dc.fillCircle(centerX, centerY, 6);
         if ( ! sleepMode ){
         	 var points = getSecondHandPoints(clockTime);
 	         drawSecondHand(dc, points);
@@ -167,7 +213,7 @@ class AnalogHands extends Ui.Drawable {
         var secondHandAngle;
  
         secondHandAngle = ( (( angleOffset.toLong() + clockTime.sec ) % 60 ) / 60.0 ) * Math.PI * 2; 
-        secondHandPoints = generateHandCoordinates(centerPoint, secondHandAngle, maxLenght-2, maxLenght*0.2, maxLenght*0.02);
+        secondHandPoints = generateHandCoordinates([centerX , centerY], secondHandAngle, maxLenght-2, maxLenght*0.2, maxLenght*0.02);
  
         return secondHandPoints;
     }
