@@ -56,7 +56,7 @@ class AnalogView extends WatchUi.WatchFace
         font = WatchUi.loadResource(Rez.Fonts.id_font_black_diamond);
 
 		// Load the background image into memory
-		bkgImage = null;//WatchUi.loadResource(Rez.Drawables.BackgroundImage);
+		bkgImage = WatchUi.loadResource(Rez.Drawables.BackgroundImage);
 		
 		stepsIcon = WatchUi.loadResource(Rez.Drawables.StepsIcon); 
 		if (System.getDeviceSettings() has :phoneConnected) {
@@ -155,19 +155,19 @@ class AnalogView extends WatchUi.WatchFace
 
 		// Draw background image
 		if(bkgImage != null){
-			targetDc.drawBitmap(width/2 - 150/2, height/2 - 140/2 , bkgImage); 
+			targetDc.drawBitmap(width/2 - bkgImage.getWidth()/2, height/2 - bkgImage.getHeight()/2 , bkgImage); 
 		}
 		
 		// Draw the tick marks around the edges of the screen
     	drawHashMarks(targetDc);
         
         // Draw status icons
-        drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );
+        drawStatusIcons(targetDc, width * 0.5 ,  dc.getFontHeight(fontClock)*1.5 );
         drawStepsString( targetDc, width /2, (height - dc.getFontHeight(fontClock)*2) );
-        drawBattString( targetDc, width*0.12 , height *0.5 - dc.getFontHeight(font)*0.5);
+        drawBattString( targetDc, dc.getFontHeight(fontClock) , height *0.5 - dc.getFontHeight(font)*0.5);
   		
          //Draw the date string                
-    	drawDateString( targetDc, width *0.75  , height *0.5 - dc.getFontHeight(font)/2 +3);
+    	drawDateString( targetDc, width - dc.getFontHeight(fontClock)*2 , height *0.5 - dc.getFontHeight(font)/2 +3);
 		
    	      // Draw hands 
         analogHands.draw(targetDc);
@@ -432,7 +432,7 @@ class AnalogView extends WatchUi.WatchFace
         isAwake = true;
         if ( analogHands != null) {
     		analogHands.sleepMode = false;
-    		WatchUi.animate(analogHands, :angleOffset, WatchUi.ANIM_TYPE_EASE_IN_OUT , 0, MAXWIDTH, 2, null);
+    		WatchUi.animate(analogHands, :angleOffset, WatchUi.ANIM_TYPE_LINEAR  , 0, MAXWIDTH, Application.getApp().getProperty("AnimationTime"), null);
     	}
     }
 }

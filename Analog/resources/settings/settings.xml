@@ -24,8 +24,9 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.Digital" title="@Strings.Digital">
-        <settingConfig type="boolean" />
+    <setting propertyKey="@Properties.AnimationTime" title="@Strings.AnimationTime">
+        <settingConfig type="numeric" required="true" min="0"
+				max="15" />
     </setting>
 
 </settings>
