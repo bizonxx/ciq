@@ -1,0 +1,38 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="DndIcon" filename="images/dnd.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="AlarmIcon" filename="images/alarm.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="NotificationIcon" filename="images/notification.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="StepsIcon" filename="images/steps.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="PhoneIcon" filename="images/phone.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+	<bitmap id="NoPhoneIcon" filename="images/nophone.png">
+        <palette>
+            <color>FFFFFF</color>
+	</palette>
+    </bitmap>
+   	<bitmap id="BackgroundImage" filename="images/background.png" dithering="none">
+       <palette disableTransparency="false">
+           <color>FFFFFF</color>
+       </palette>
+    </bitmap>
+</resources>

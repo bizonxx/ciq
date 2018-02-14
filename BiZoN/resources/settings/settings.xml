@@ -1,0 +1,32 @@
+<settings>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+           <!-- 
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            -->
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.ForegroundColor" title="@Strings.ForegroundColorTitle">
+        <settingConfig type="list">
+        	<listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+        <!--
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorDarkRed</listEntry>
+        -->
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.AnimationTime" title="@Strings.AnimationTime">
+        <settingConfig type="numeric" required="true" min="0"
+				max="15" />
+    </setting>
+
+</settings>
