@@ -26,7 +26,7 @@ class AnalogHandsClassy extends AnalogHands{
         dc.setColor(handColor ,Gfx.COLOR_TRANSPARENT);     
         dc.fillPolygon(generateHandCoordinates([centerX, centerY], hourHandAngle, maxLenght*0.7, 0, 10 ));      
         dc.fillCircle(centerX + maxLenght*0.7 * Math.sin(hourHandAngle), centerY - maxLenght*0.7 * Math.cos(hourHandAngle), 4 );
-        dc.setColor(angleOffset != MAXWIDTH ? Gfx.COLOR_DK_RED : Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
+        dc.setColor(angleOffset == MAXWIDTH ? Gfx.COLOR_DK_RED : Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
         dc.fillPolygon(generateHandCoordinates([centerX + maxLenght*0.3* Math.sin(hourHandAngle), centerY - maxLenght*0.3* Math.cos(hourHandAngle) ], hourHandAngle, maxLenght*0.4, 0, 6 ));
         dc.fillCircle(centerX + maxLenght*0.7* Math.sin(hourHandAngle), centerY - maxLenght*0.7* Math.cos(hourHandAngle), 2 );
    
@@ -35,7 +35,7 @@ class AnalogHandsClassy extends AnalogHands{
         dc.setColor(handColor ,Gfx.COLOR_TRANSPARENT); 
         dc.fillPolygon(generateHandCoordinates([centerX , centerY], minuteHandAngle, maxLenght*0.9, 0, 10));    
         dc.fillCircle(centerX + (maxLenght*0.9 * Math.sin(minuteHandAngle)), centerY - (maxLenght*0.9 * Math.cos(minuteHandAngle)), 4 );    
-        dc.setColor(angleOffset != MAXWIDTH ? Gfx.COLOR_DK_RED : Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
+        dc.setColor(angleOffset == MAXWIDTH ? Gfx.COLOR_DK_RED : Gfx.COLOR_BLACK ,Gfx.COLOR_TRANSPARENT);
         dc.fillPolygon(generateHandCoordinates([centerX + maxLenght*0.3* Math.sin(minuteHandAngle), centerY - maxLenght*0.3* Math.cos(minuteHandAngle) ], minuteHandAngle, maxLenght*0.6, 0, 6 ));
         dc.fillCircle(centerX + maxLenght*0.9* Math.sin(minuteHandAngle), centerY - maxLenght*0.9* Math.cos(minuteHandAngle), 2 );
    

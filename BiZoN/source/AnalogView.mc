@@ -423,6 +423,7 @@ class AnalogView extends WatchUi.WatchFace
     function onEnterSleep() {
         isAwake = false;
         analogHands.sleepMode = true;
+        analogHands.angleOffset = MAXWIDTH;
         WatchUi.requestUpdate();
     }
 
