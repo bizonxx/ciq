@@ -1,260 +1,260 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="33" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="34" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="35" pc="268435497" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="36" pc="268435513" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="39" pc="268435524" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="41" pc="268435528" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="42" pc="268435528" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="43" pc="268435528" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="45" pc="268435528" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="47" pc="268435528" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="48" pc="268435576" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="49" pc="268435655" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="51" pc="268435672" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="52" pc="268435725" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="54" pc="268435738" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="56" pc="268435754" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="58" pc="268435771" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="59" pc="268435791" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="61" pc="268435846" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="62" pc="268435854" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="63" pc="268435874" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="65" pc="268435932" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="66" pc="268435940" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="67" pc="268435960" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="69" pc="268436018" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="70" pc="268436026" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="71" pc="268436046" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="73" pc="268436104" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="74" pc="268436112" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="75" pc="268436132" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="78" pc="268436193" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="80" pc="268436248" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="81" pc="268436289" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="82" pc="268436321" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="83" pc="268436406" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="84" pc="268436430" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="90" pc="268436494" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="91" pc="268436525" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="92" pc="268436586" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="93" pc="268436618" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="96" pc="268436852" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="97" pc="268436913" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="98" pc="268436945" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="102" pc="268437078" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="103" pc="268437139" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="105" pc="268437151" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="106" pc="268437183" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="110" pc="268437251" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="111" pc="268437283" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="112" pc="268437294" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="113" pc="268437344" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="114" pc="268437370" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="115" pc="268437402" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="116" pc="268437487" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="117" pc="268437511" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="121" pc="268437578" symbol="draw"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="127" pc="268437623" symbol="drawPower"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="129" pc="268437627" symbol="drawPower"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="130" pc="268437649" symbol="drawPower"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="133" pc="268437671" symbol="drawPower"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="151" pc="268438520" symbol="drawBluetoot"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="153" pc="268438524" symbol="drawBluetoot"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="154" pc="268438546" symbol="drawBluetoot"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="156" pc="268438568" symbol="drawBluetoot"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="173" pc="268439235" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="176" pc="268439239" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="177" pc="268439437" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="178" pc="268439445" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="179" pc="268439464" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="180" pc="268439483" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="181" pc="268439504" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="184" pc="268439525" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="186" pc="268439543" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="187" pc="268439574" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="188" pc="268439605" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="192" pc="268439655" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="193" pc="268439669" symbol="drawHand"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="197" pc="268439706" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="199" pc="268439710" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="200" pc="268439729" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="202" pc="268439748" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="203" pc="268439759" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="206" pc="268439797" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="208" pc="268439798" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="210" pc="268439803" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="211" pc="268439820" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="215" pc="268439841" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="216" pc="268439849" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="217" pc="268439860" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="218" pc="268439871" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="219" pc="268439885" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="220" pc="268439997" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="221" pc="268440008" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="222" pc="268440035" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="226" pc="268440111" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="227" pc="268440175" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="232" pc="268440245" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="233" pc="268440252" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="234" pc="268440331" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="235" pc="268440363" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="236" pc="268440463" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="237" pc="268440518" symbol="drawRing"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="248" pc="268440592" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="249" pc="268440596" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="253" pc="268440615" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="254" pc="268440619" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="258" pc="268440650" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="260" pc="268440654" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="261" pc="268440682" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="263" pc="268440694" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="264" pc="268440707" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="271" pc="268440731" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="272" pc="268440735" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="273" pc="268440748" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="274" pc="268440764" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="279" pc="268440831" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="280" pc="268440835" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="281" pc="268440848" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="282" pc="268440864" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="283" pc="268440886" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="292" pc="268440906" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="293" pc="268440910" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="294" pc="268440928" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="297" pc="268440941" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="299" pc="268440945" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="300" pc="268440969" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="302" pc="268441013" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="303" pc="268441037" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="305" pc="268441081" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="306" pc="268441105" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="308" pc="268441149" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="309" pc="268441173" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="311" pc="268441217" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="312" pc="268441241" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="314" pc="268441285" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="315" pc="268441309" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="317" pc="268441353" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="318" pc="268441377" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="320" pc="268441414" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="321" pc="268441438" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="323" pc="268441472" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="324" pc="268441496" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="326" pc="268441530" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="327" pc="268441554" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="329" pc="268441588" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="330" pc="268441612" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="332" pc="268441646" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="333" pc="268441670" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="335" pc="268441704" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="336" pc="268441728" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="338" pc="268441762" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="339" pc="268441786" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="341" pc="268441820" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="342" pc="268441844" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="344" pc="268441881" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="345" pc="268441905" symbol="getSettings"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="351" pc="268441949" symbol="onStart"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="355" pc="268441954" symbol="onStop"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="358" pc="268441959" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="360" pc="268441963" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="362" pc="268441975" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="366" pc="268441992" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Orbit\\.\\source\\OrbitWatchFace.mc" lineNum="368" pc="268441996" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="3" lineNum="33" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="3" lineNum="34" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="3" lineNum="35" pc="268435497" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="3" lineNum="36" pc="268435513" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="39" pc="268435524" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="41" pc="268435528" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="42" pc="268435528" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="43" pc="268435528" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="45" pc="268435528" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="47" pc="268435528" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="48" pc="268435576" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="49" pc="268435655" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="51" pc="268435672" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="52" pc="268435725" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="54" pc="268435738" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="56" pc="268435754" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="58" pc="268435771" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="59" pc="268435791" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="61" pc="268435846" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="62" pc="268435854" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="63" pc="268435874" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="65" pc="268435932" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="66" pc="268435940" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="67" pc="268435960" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="69" pc="268436018" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="70" pc="268436026" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="71" pc="268436046" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="73" pc="268436104" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="74" pc="268436112" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="75" pc="268436132" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="78" pc="268436193" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="80" pc="268436248" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="81" pc="268436289" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="82" pc="268436321" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="83" pc="268436406" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="84" pc="268436430" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="90" pc="268436494" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="91" pc="268436525" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="92" pc="268436586" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="93" pc="268436618" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="96" pc="268436852" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="97" pc="268436913" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="98" pc="268436945" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="102" pc="268437078" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="103" pc="268437139" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="105" pc="268437151" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="106" pc="268437183" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="110" pc="268437251" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="111" pc="268437283" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="112" pc="268437294" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="113" pc="268437344" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="114" pc="268437370" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="115" pc="268437402" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="116" pc="268437487" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="117" pc="268437511" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="4" lineNum="121" pc="268437578" symbol="draw"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="5" lineNum="127" pc="268437623" symbol="drawPower"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="5" lineNum="129" pc="268437627" symbol="drawPower"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="5" lineNum="130" pc="268437649" symbol="drawPower"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="5" lineNum="133" pc="268437671" symbol="drawPower"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="6" lineNum="151" pc="268438520" symbol="drawBluetoot"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="6" lineNum="153" pc="268438524" symbol="drawBluetoot"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="6" lineNum="154" pc="268438546" symbol="drawBluetoot"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="6" lineNum="156" pc="268438568" symbol="drawBluetoot"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="173" pc="268439235" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="176" pc="268439239" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="177" pc="268439437" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="178" pc="268439445" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="179" pc="268439464" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="180" pc="268439483" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="181" pc="268439504" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="184" pc="268439525" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="186" pc="268439543" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="187" pc="268439574" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="188" pc="268439605" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="192" pc="268439655" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="7" lineNum="193" pc="268439669" symbol="drawHand"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="197" pc="268439706" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="199" pc="268439710" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="200" pc="268439729" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="202" pc="268439748" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="203" pc="268439759" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="206" pc="268439797" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="208" pc="268439798" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="210" pc="268439803" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="211" pc="268439820" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="215" pc="268439841" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="216" pc="268439849" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="217" pc="268439860" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="218" pc="268439871" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="219" pc="268439885" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="220" pc="268439997" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="221" pc="268440008" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="222" pc="268440035" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="226" pc="268440111" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="227" pc="268440175" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="232" pc="268440245" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="233" pc="268440252" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="234" pc="268440331" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="235" pc="268440363" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="236" pc="268440463" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="8" lineNum="237" pc="268440518" symbol="drawRing"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="10" lineNum="248" pc="268440592" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="10" lineNum="249" pc="268440596" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="11" lineNum="253" pc="268440615" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="11" lineNum="254" pc="268440619" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="12" lineNum="258" pc="268440650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="12" lineNum="260" pc="268440654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="12" lineNum="261" pc="268440682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="12" lineNum="263" pc="268440694" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="12" lineNum="264" pc="268440707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="13" lineNum="271" pc="268440731" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="13" lineNum="272" pc="268440735" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="13" lineNum="273" pc="268440748" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="13" lineNum="274" pc="268440764" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="14" lineNum="279" pc="268440831" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="14" lineNum="280" pc="268440835" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="14" lineNum="281" pc="268440848" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="14" lineNum="282" pc="268440864" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="14" lineNum="283" pc="268440886" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="16" lineNum="292" pc="268440906" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="16" lineNum="293" pc="268440910" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="16" lineNum="294" pc="268440928" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="297" pc="268440941" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="299" pc="268440945" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="300" pc="268440969" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="302" pc="268441013" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="303" pc="268441037" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="305" pc="268441081" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="306" pc="268441105" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="308" pc="268441149" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="309" pc="268441173" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="311" pc="268441217" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="312" pc="268441241" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="314" pc="268441285" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="315" pc="268441309" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="317" pc="268441353" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="318" pc="268441377" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="320" pc="268441414" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="321" pc="268441438" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="323" pc="268441472" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="324" pc="268441496" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="326" pc="268441530" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="327" pc="268441554" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="329" pc="268441588" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="330" pc="268441612" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="332" pc="268441646" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="333" pc="268441670" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="335" pc="268441704" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="336" pc="268441728" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="338" pc="268441762" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="339" pc="268441786" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="341" pc="268441820" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="342" pc="268441844" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="344" pc="268441881" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="17" lineNum="345" pc="268441905" symbol="getSettings"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="18" lineNum="351" pc="268441949" symbol="onStart"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="19" lineNum="355" pc="268441954" symbol="onStop"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="20" lineNum="358" pc="268441959" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="20" lineNum="360" pc="268441963" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="20" lineNum="362" pc="268441975" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="21" lineNum="366" pc="268441992" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Orbit\\source\\OrbitWatchFace.mc" id="21" lineNum="368" pc="268441996" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="48" symbol="ColorSec"/>
-<entry field="true" id="69" symbol="Purple"/>
+<entry field="true" id="47" symbol="ColorSec"/>
+<entry field="true" id="68" symbol="Purple"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="53" symbol="ArcsOn"/>
-<entry field="true" id="73" symbol="Green"/>
-<entry field="true" id="56" symbol="Small"/>
+<entry field="true" id="52" symbol="ArcsOn"/>
+<entry field="true" id="72" symbol="Green"/>
+<entry field="true" id="55" symbol="Small"/>
 <entry id="26" object="true" symbol="OrbitWatchFaceView"/>
-<entry field="true" id="41" symbol="Tiny"/>
-<entry field="true" id="62" symbol="White"/>
+<entry field="true" id="40" symbol="Tiny"/>
+<entry field="true" id="61" symbol="White"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="52" symbol="WidthSize"/>
-<entry field="true" id="59" symbol="ColorDate"/>
-<entry field="true" id="39" symbol="HandsOn"/>
+<entry field="true" id="51" symbol="WidthSize"/>
+<entry field="true" id="58" symbol="ColorDate"/>
+<entry field="true" id="38" symbol="HandsOn"/>
 <entry id="25" object="true" symbol="OrbitClock"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="43" symbol="Black"/>
+<entry field="true" id="42" symbol="Black"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry field="true" id="44" symbol="Orange"/>
+<entry field="true" id="43" symbol="Orange"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry field="true" id="68" symbol="Yellow"/>
+<entry field="true" id="67" symbol="Yellow"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="61" symbol="Red"/>
-<entry field="true" id="42" symbol="Large"/>
+<entry field="true" id="60" symbol="Red"/>
+<entry field="true" id="41" symbol="Large"/>
 <entry field="true" id="29" symbol="sleepMode"/>
 <entry field="true" id="17" symbol="simpleModeOnSleep"/>
 <entry field="true" id="13" symbol="colorDigit"/>
 <entry id="8389687" method="true" symbol="drawArc"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="45" symbol="AppName"/>
+<entry field="true" id="44" symbol="AppName"/>
 <entry field="true" id="10" symbol="colorHour"/>
 <entry id="32" method="true" symbol="drawHand"/>
 <entry field="true" id="21" symbol="statusOn"/>
 <entry field="true" id="8390146" module="true" symbol="Background"/>
 <entry id="31" method="true" symbol="drawBluetoot"/>
-<entry field="true" id="40" symbol="XTiny"/>
-<entry field="true" id="37" symbol="LauncherIcon"/>
-<entry field="true" id="51" symbol="ArcsRoundedOn"/>
+<entry field="true" id="39" symbol="XTiny"/>
+<entry field="true" id="36" symbol="LauncherIcon"/>
+<entry field="true" id="50" symbol="ArcsRoundedOn"/>
 <entry id="27" object="true" symbol="OrbitWatchFaceApp"/>
-<entry field="true" id="49" symbol="Dark_Green"/>
+<entry field="true" id="48" symbol="Dark_Green"/>
 <entry field="true" id="22" symbol="fontSize"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="55" symbol="Gray"/>
+<entry field="true" id="54" symbol="Gray"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry field="true" id="24" symbol="MAXWIDTH"/>
-<entry field="true" id="57" symbol="StatusOn"/>
+<entry field="true" id="56" symbol="StatusOn"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="66" symbol="Dark_Gray"/>
-<entry field="true" id="34" symbol="drawable"/>
+<entry field="true" id="65" symbol="Dark_Gray"/>
+<entry field="true" id="8390756" symbol="drawable"/>
 <entry field="true" id="23" symbol="widthSize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="9" symbol="colorDate"/>
-<entry field="true" id="47" symbol="Auto"/>
+<entry field="true" id="46" symbol="Auto"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
-<entry field="true" id="65" symbol="FontSize"/>
+<entry field="true" id="64" symbol="FontSize"/>
 <entry field="true" id="8389348" symbol="font"/>
 <entry field="true" id="18" symbol="handsOn"/>
 <entry field="true" id="11" symbol="colorMin"/>
 <entry field="true" id="19" symbol="orbitsOn"/>
-<entry field="true" id="58" symbol="Blue"/>
+<entry field="true" id="57" symbol="Blue"/>
 <entry id="30" method="true" symbol="drawPower"/>
-<entry field="true" id="50" symbol="SimpleModeOnSleep"/>
-<entry id="36" module="true" symbol="Layouts"/>
-<entry field="true" id="67" symbol="Dark_Blue"/>
+<entry field="true" id="49" symbol="SimpleModeOnSleep"/>
+<entry id="35" module="true" symbol="Layouts"/>
+<entry field="true" id="66" symbol="Dark_Blue"/>
 <entry field="true" id="20" symbol="digitsOn"/>
-<entry field="true" id="70" symbol="Medium"/>
+<entry field="true" id="69" symbol="Medium"/>
 <entry field="true" id="8389892" symbol="background"/>
-<entry field="true" id="46" symbol="ColorMin"/>
+<entry field="true" id="45" symbol="ColorMin"/>
 <entry field="true" id="16" symbol="arcsRoundedOn"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry id="74" method="true" symbol="getSettings"/>
+<entry id="73" method="true" symbol="getSettings"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry field="true" id="12" symbol="colorSec"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry field="true" id="64" symbol="OrbitsOn"/>
-<entry field="true" id="60" symbol="Dark_Red"/>
+<entry field="true" id="63" symbol="OrbitsOn"/>
+<entry field="true" id="59" symbol="Dark_Red"/>
 <entry id="33" method="true" symbol="drawRing"/>
-<entry id="35" module="true" symbol="Menus"/>
-<entry field="true" id="72" symbol="DigitsOn"/>
+<entry id="34" module="true" symbol="Menus"/>
+<entry field="true" id="71" symbol="DigitsOn"/>
 <entry field="true" id="28" symbol="simpleMode"/>
-<entry field="true" id="63" symbol="Pink"/>
+<entry field="true" id="62" symbol="Pink"/>
 <entry field="true" id="15" symbol="arcsOn"/>
-<entry field="true" id="54" symbol="AnimationTime"/>
-<entry field="true" id="71" symbol="ColorHour"/>
+<entry field="true" id="53" symbol="AnimationTime"/>
+<entry field="true" id="70" symbol="ColorHour"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry field="true" id="14" symbol="animationTime"/>
-<entry field="true" id="38" symbol="ColorDigit"/>
+<entry field="true" id="37" symbol="ColorDigit"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436190" name="fontHeight" stackId="11" startPc="268435771"/>

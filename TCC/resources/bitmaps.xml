@@ -1,0 +1,25 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="StepsIcon" filename="images/steps.png">
+        <palette>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="BackgroundImage" filename="images/tcc2.png" dithering="none">
+ 
+     <palette disableTransparency="true">
+       	 
+           <color>000000</color>
+           <color>FFFFFF</color>
+           <color>00FF00</color>
+           <color>00AA00</color>
+           
+           
+           <color>83878F</color>
+           <color>4A4A4C</color>
+           <color>008A45</color>
+           <color>0E6F3B</color>
+       </palette>
+ 
+    </bitmap>
+</resources>

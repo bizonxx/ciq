@@ -1,292 +1,292 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="35" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="36" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="37" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="38" pc="268435507" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="39" pc="268435517" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="43" pc="268435552" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="46" pc="268435556" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="49" pc="268435599" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="51" pc="268435642" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="54" pc="268435685" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="58" pc="268435708" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="72" pc="268435903" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="75" pc="268435912" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="77" pc="268435921" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="85" pc="268435986" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="87" pc="268435990" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="89" pc="268436182" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="90" pc="268436190" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="91" pc="268436209" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="94" pc="268436228" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="95" pc="268436246" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="96" pc="268436283" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="98" pc="268436320" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="101" pc="268436382" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="104" pc="268436386" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="106" pc="268436390" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="109" pc="268436800" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="110" pc="268436808" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="111" pc="268436827" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="114" pc="268436846" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="116" pc="268436864" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="117" pc="268436901" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="119" pc="268436938" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="122" pc="268437000" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="125" pc="268437004" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="127" pc="268437008" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="128" pc="268437200" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="129" pc="268437208" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="130" pc="268437227" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="133" pc="268437246" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="134" pc="268437264" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="135" pc="268437301" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="137" pc="268437338" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="140" pc="268437400" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="143" pc="268437404" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="145" pc="268437408" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="146" pc="268437594" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="147" pc="268437602" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="148" pc="268437621" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="151" pc="268437640" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="152" pc="268437658" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="153" pc="268437695" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="155" pc="268437732" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="158" pc="268437794" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="160" pc="268437798" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="162" pc="268437802" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="163" pc="268437976" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="164" pc="268437984" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="165" pc="268438003" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="168" pc="268438022" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="169" pc="268438040" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="170" pc="268438077" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="172" pc="268438114" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="175" pc="268438176" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="180" pc="268438180" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="181" pc="268438184" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="182" pc="268438197" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="184" pc="268438210" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="186" pc="268438285" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="187" pc="268438309" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="188" pc="268438309" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="189" pc="268438309" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="190" pc="268438319" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="193" pc="268438329" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="195" pc="268438379" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="196" pc="268438404" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="197" pc="268438429" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="198" pc="268438454" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="199" pc="268438479" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="200" pc="268438499" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="201" pc="268438522" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="202" pc="268438547" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="203" pc="268438572" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="204" pc="268438597" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="205" pc="268438622" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="208" pc="268438671" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="209" pc="268438885" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="210" pc="268439111" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="211" pc="268439325" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="235" pc="268439552" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="236" pc="268439556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="237" pc="268439556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="238" pc="268439556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="239" pc="268439573" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="240" pc="268439573" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="242" pc="268439576" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="243" pc="268439596" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="246" pc="268439616" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="248" pc="268439626" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="249" pc="268439639" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="250" pc="268439651" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="253" pc="268439660" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="255" pc="268439682" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="258" pc="268439686" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="259" pc="268439699" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="263" pc="268439712" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="264" pc="268439744" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="267" pc="268439788" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="271" pc="268439836" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="272" pc="268439924" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="273" pc="268439932" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="274" pc="268439979" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="277" pc="268440032" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="282" pc="268440057" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="284" pc="268440071" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="287" pc="268440087" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="290" pc="268440101" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="293" pc="268440112" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="294" pc="268440148" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="296" pc="268440183" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="297" pc="268440281" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="300" pc="268440317" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="301" pc="268440433" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="302" pc="268440469" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="303" pc="268440517" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="306" pc="268440528" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="307" pc="268440564" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="311" pc="268440584" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="313" pc="268440598" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="314" pc="268440605" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="315" pc="268440622" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="316" pc="268440632" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="317" pc="268440657" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="318" pc="268440668" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="322" pc="268440684" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="324" pc="268440749" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="325" pc="268440785" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="330" pc="268440869" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="334" pc="268440880" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="335" pc="268440884" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="337" pc="268440928" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="338" pc="268440972" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="340" pc="268440993" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="341" pc="268441025" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="343" pc="268441057" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="344" pc="268441074" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="345" pc="268441110" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="346" pc="268441142" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="348" pc="268441159" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="349" pc="268441191" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="354" pc="268441251" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="357" pc="268441255" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="358" pc="268441308" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="364" pc="268441329" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="365" pc="268441361" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="368" pc="268441399" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="369" pc="268441446" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="370" pc="268441514" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="374" pc="268441629" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="377" pc="268441633" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="379" pc="268441652" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="382" pc="268441662" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="383" pc="268441700" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="384" pc="268441747" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="386" pc="268441780" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="389" pc="268441812" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="393" pc="268441884" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="395" pc="268441888" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="396" pc="268441901" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="397" pc="268441914" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="398" pc="268441914" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="399" pc="268441914" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="400" pc="268441914" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="404" pc="268441943" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="406" pc="268441975" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="407" pc="268442006" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="408" pc="268442016" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="410" pc="268442039" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="411" pc="268442104" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="412" pc="268442140" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="413" pc="268442229" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="414" pc="268442261" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="417" pc="268442350" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="419" pc="268442382" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="421" pc="268442417" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="422" pc="268442482" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="423" pc="268442518" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="424" pc="268442607" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="425" pc="268442639" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="428" pc="268442728" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="429" pc="268442803" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="430" pc="268442836" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="431" pc="268442868" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="432" pc="268442901" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="433" pc="268442934" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="434" pc="268442970" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="440" pc="268443004" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="445" pc="268443008" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="445" pc="268443032" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="447" pc="268443036" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="448" pc="268443048" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="453" pc="268443065" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="454" pc="268443082" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="455" pc="268443117" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="459" pc="268443185" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="462" pc="268443206" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="463" pc="268443255" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="464" pc="268443304" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="468" pc="268443360" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="471" pc="268443396" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="482" pc="268443411" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="483" pc="268443415" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="484" pc="268443449" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="486" pc="268443483" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="487" pc="268443507" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="488" pc="268443530" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="491" pc="268443552" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="492" pc="268443575" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="495" pc="268443597" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="496" pc="268443620" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="499" pc="268443642" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="500" pc="268443665" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="504" pc="268443700" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="512" pc="268443728" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="516" pc="268443732" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="517" pc="268443745" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="525" pc="268443779" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="526" pc="268443783" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="527" pc="268443793" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="532" pc="268443810" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="533" pc="268443814" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="543" pc="268443825" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="544" pc="268443829" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="545" pc="268443859" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogView.mc" lineNum="546" pc="268443889" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="22" pc="268443901" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="23" pc="268443905" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="24" pc="268443923" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="26" pc="268443952" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="28" pc="268443965" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="29" pc="268443983" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="31" pc="268444008" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="32" pc="268444026" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="34" pc="268444051" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="35" pc="268444069" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="39" pc="268444095" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="41" pc="268444099" symbol="onLayout"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="45" pc="268444112" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="46" pc="268444116" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="47" pc="268444116" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="48" pc="268444116" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="50" pc="268444133" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="51" pc="268444146" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="53" pc="268444159" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="54" pc="268444176" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="56" pc="268444207" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="59" pc="268444283" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="60" pc="268444319" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="63" pc="268444345" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="64" pc="268444381" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogGoalView.mc" lineNum="67" pc="268444435" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="18" pc="268444496" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="19" pc="268444500" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="20" pc="268444518" symbol="initialize"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="23" pc="268444543" symbol="onStart"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="27" pc="268444548" symbol="onStop"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="30" pc="268444553" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="31" pc="268444557" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="32" pc="268444587" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="33" pc="268444610" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="35" pc="268444666" symbol="getInitialView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="41" pc="268444704" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="42" pc="268444708" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="45" pc="268444732" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="49" pc="268444751" symbol="getGoalView"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\git\\ciq\\Evo\\.\\source\\AnalogApp.mc" lineNum="50" pc="268444755" symbol="getGoalView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="3" lineNum="20" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="4" lineNum="23" pc="268435503" symbol="onStart"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="5" lineNum="27" pc="268435508" symbol="onStop"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="6" lineNum="30" pc="268435513" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="6" lineNum="31" pc="268435517" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="6" lineNum="32" pc="268435547" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="6" lineNum="33" pc="268435570" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="6" lineNum="35" pc="268435626" symbol="getInitialView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="7" lineNum="41" pc="268435664" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="7" lineNum="42" pc="268435668" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="7" lineNum="45" pc="268435692" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="8" lineNum="49" pc="268435711" symbol="getGoalView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogApp.mc" id="8" lineNum="50" pc="268435715" symbol="getGoalView"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="10" lineNum="35" pc="268435755" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="10" lineNum="36" pc="268435759" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="10" lineNum="37" pc="268435777" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="10" lineNum="38" pc="268435806" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="10" lineNum="39" pc="268435816" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="43" pc="268435851" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="46" pc="268435855" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="49" pc="268435898" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="51" pc="268435941" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="54" pc="268435984" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="58" pc="268436007" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="72" pc="268436202" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="75" pc="268436211" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="11" lineNum="77" pc="268436220" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="85" pc="268436285" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="87" pc="268436289" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="89" pc="268436481" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="90" pc="268436489" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="91" pc="268436508" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="94" pc="268436527" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="95" pc="268436545" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="96" pc="268436582" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="98" pc="268436619" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="12" lineNum="101" pc="268436681" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="104" pc="268436685" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="106" pc="268436689" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="109" pc="268437099" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="110" pc="268437107" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="111" pc="268437126" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="114" pc="268437145" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="116" pc="268437163" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="117" pc="268437200" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="119" pc="268437237" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="13" lineNum="122" pc="268437299" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="125" pc="268437303" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="127" pc="268437307" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="128" pc="268437499" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="129" pc="268437507" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="130" pc="268437526" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="133" pc="268437545" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="134" pc="268437563" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="135" pc="268437600" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="137" pc="268437637" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="14" lineNum="140" pc="268437699" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="143" pc="268437703" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="145" pc="268437707" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="146" pc="268437893" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="147" pc="268437901" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="148" pc="268437920" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="151" pc="268437939" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="152" pc="268437957" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="153" pc="268437994" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="155" pc="268438031" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="15" lineNum="158" pc="268438093" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="160" pc="268438097" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="162" pc="268438101" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="163" pc="268438275" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="164" pc="268438283" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="165" pc="268438302" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="168" pc="268438321" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="169" pc="268438339" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="170" pc="268438376" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="172" pc="268438413" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="16" lineNum="175" pc="268438475" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="180" pc="268438479" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="181" pc="268438483" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="182" pc="268438496" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="184" pc="268438509" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="186" pc="268438584" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="187" pc="268438608" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="188" pc="268438608" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="189" pc="268438608" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="190" pc="268438618" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="193" pc="268438628" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="195" pc="268438678" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="196" pc="268438703" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="197" pc="268438728" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="198" pc="268438753" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="199" pc="268438778" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="200" pc="268438798" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="201" pc="268438821" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="202" pc="268438846" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="203" pc="268438871" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="204" pc="268438896" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="205" pc="268438921" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="208" pc="268438970" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="209" pc="268439184" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="210" pc="268439410" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="17" lineNum="211" pc="268439624" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="235" pc="268439851" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="236" pc="268439855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="237" pc="268439855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="238" pc="268439855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="239" pc="268439872" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="240" pc="268439872" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="242" pc="268439875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="243" pc="268439895" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="246" pc="268439915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="248" pc="268439925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="249" pc="268439938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="250" pc="268439950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="253" pc="268439959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="255" pc="268439981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="258" pc="268439985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="259" pc="268439998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="263" pc="268440011" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="264" pc="268440043" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="267" pc="268440087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="271" pc="268440135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="272" pc="268440223" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="273" pc="268440231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="274" pc="268440278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="277" pc="268440331" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="282" pc="268440356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="284" pc="268440370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="287" pc="268440386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="290" pc="268440400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="293" pc="268440411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="294" pc="268440447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="296" pc="268440482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="297" pc="268440580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="300" pc="268440616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="301" pc="268440732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="302" pc="268440768" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="303" pc="268440816" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="306" pc="268440827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="307" pc="268440863" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="311" pc="268440883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="313" pc="268440897" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="314" pc="268440904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="315" pc="268440921" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="316" pc="268440931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="317" pc="268440956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="318" pc="268440967" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="322" pc="268440983" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="324" pc="268441048" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="325" pc="268441084" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="18" lineNum="330" pc="268441168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="334" pc="268441179" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="335" pc="268441183" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="337" pc="268441227" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="338" pc="268441271" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="340" pc="268441292" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="341" pc="268441324" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="343" pc="268441356" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="344" pc="268441373" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="345" pc="268441409" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="346" pc="268441441" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="348" pc="268441458" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="19" lineNum="349" pc="268441490" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="354" pc="268441550" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="357" pc="268441554" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="358" pc="268441607" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="364" pc="268441628" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="365" pc="268441660" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="368" pc="268441698" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="369" pc="268441745" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="20" lineNum="370" pc="268441813" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="374" pc="268441928" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="377" pc="268441932" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="379" pc="268441951" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="382" pc="268441961" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="383" pc="268441999" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="384" pc="268442046" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="386" pc="268442079" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="21" lineNum="389" pc="268442111" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="393" pc="268442183" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="395" pc="268442187" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="396" pc="268442200" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="397" pc="268442213" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="398" pc="268442213" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="399" pc="268442213" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="400" pc="268442213" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="404" pc="268442242" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="406" pc="268442274" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="407" pc="268442305" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="408" pc="268442315" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="410" pc="268442338" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="411" pc="268442403" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="412" pc="268442439" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="413" pc="268442528" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="414" pc="268442560" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="417" pc="268442649" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="419" pc="268442681" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="421" pc="268442716" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="422" pc="268442781" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="423" pc="268442817" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="424" pc="268442906" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="425" pc="268442938" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="428" pc="268443027" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="429" pc="268443102" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="430" pc="268443135" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="431" pc="268443167" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="432" pc="268443200" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="433" pc="268443233" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="22" lineNum="434" pc="268443269" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="440" pc="268443303" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="445" pc="268443307" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="445" pc="268443331" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="447" pc="268443335" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="448" pc="268443347" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="453" pc="268443364" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="454" pc="268443381" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="455" pc="268443416" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="459" pc="268443484" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="462" pc="268443505" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="463" pc="268443554" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="464" pc="268443603" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="468" pc="268443659" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="23" lineNum="471" pc="268443695" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="482" pc="268443710" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="483" pc="268443714" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="484" pc="268443748" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="486" pc="268443782" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="487" pc="268443806" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="488" pc="268443829" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="491" pc="268443851" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="492" pc="268443874" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="495" pc="268443896" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="496" pc="268443919" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="499" pc="268443941" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="500" pc="268443964" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="24" lineNum="504" pc="268443999" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="25" lineNum="512" pc="268444027" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="25" lineNum="516" pc="268444031" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="25" lineNum="517" pc="268444044" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="26" lineNum="525" pc="268444078" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="26" lineNum="526" pc="268444082" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="26" lineNum="527" pc="268444092" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="27" lineNum="532" pc="268444109" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="27" lineNum="533" pc="268444113" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="29" lineNum="543" pc="268444124" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="29" lineNum="544" pc="268444128" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="29" lineNum="545" pc="268444158" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogView.mc" id="29" lineNum="546" pc="268444188" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="22" pc="268444202" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="23" pc="268444206" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="24" pc="268444224" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="26" pc="268444253" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="28" pc="268444266" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="29" pc="268444284" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="31" pc="268444309" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="32" pc="268444327" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="34" pc="268444352" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="31" lineNum="35" pc="268444370" symbol="initialize"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="32" lineNum="39" pc="268444396" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="32" lineNum="41" pc="268444400" symbol="onLayout"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="45" pc="268444413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="46" pc="268444417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="47" pc="268444417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="48" pc="268444417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="50" pc="268444434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="51" pc="268444447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="53" pc="268444460" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="54" pc="268444477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="56" pc="268444508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="59" pc="268444584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="60" pc="268444620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="63" pc="268444646" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="64" pc="268444682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\Evo\\source\\AnalogGoalView.mc" id="33" lineNum="67" pc="268444736" symbol="onUpdate"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="48" method="true" symbol="drawStepsString"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8388637" module="true" symbol="Communications"/>
-<entry id="12" object="true" symbol="AnalogGoalView"/>
+<entry id="13" object="true" symbol="AnalogGoalView"/>
 <entry id="8390097" method="true" symbol="onPartialUpdate"/>
 <entry field="true" id="21" symbol="ColorBlue"/>
-<entry id="10" object="true" symbol="AnalogView"/>
+<entry id="11" object="true" symbol="AnalogView"/>
 <entry field="true" id="16" symbol="StepsIcon"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
@@ -308,15 +308,15 @@
 <entry field="true" id="26" symbol="ColorBlack"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry id="8390101" object="true" symbol="BufferedBitmap"/>
 <entry id="8389916" method="true" symbol="getGoalView"/>
+<entry id="8390101" object="true" symbol="BufferedBitmap"/>
 <entry id="50" method="true" symbol="getBoundingBox"/>
 <entry field="true" id="27" symbol="Digital"/>
 <entry field="true" id="22" symbol="ForegroundColorTitle"/>
 <entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="29" symbol="AppName"/>
-<entry id="11" object="true" symbol="AnalogDelegate"/>
+<entry id="12" object="true" symbol="AnalogDelegate"/>
 <entry field="true" id="8388962" symbol="temperature"/>
 <entry id="51" method="true" symbol="drawBackground"/>
 <entry id="8388641" module="true" symbol="Math"/>
@@ -340,7 +340,7 @@
 <entry field="true" id="34" symbol="isAwake"/>
 <entry field="true" id="23" symbol="BackgroundColorTitle"/>
 <entry field="true" id="8389067" symbol="height"/>
-<entry id="13" object="true" symbol="AnalogWatch"/>
+<entry id="9" object="true" symbol="AnalogWatch"/>
 <entry id="15" module="true" symbol="Layouts"/>
 <entry field="true" id="33" symbol="forColor"/>
 <entry field="true" id="31" symbol="bkgImage"/>
@@ -356,149 +356,170 @@
 <entry field="true" id="24" symbol="ColorDarkRed"/>
 <entry field="true" id="19" symbol="id_font_black_diamond"/>
 <entry field="true" id="17" symbol="BackgroundImage"/>
-<entry field="true" id="9" symbol="partialUpdatesAllowed"/>
+<entry field="true" id="10" symbol="partialUpdatesAllowed"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435986" name="dc" stackId="1" startPc="268435552"/>
-<entry endPc="268436369" name="x" stackId="11" startPc="268436246"/>
-<entry endPc="268436369" name="y" stackId="12" startPc="268436246"/>
-<entry endPc="268436382" name="i" stackId="10" startPc="268436246"/>
-<entry endPc="268436385" name="result" stackId="7" startPc="268435990"/>
-<entry endPc="268436385" name="sin" stackId="9" startPc="268435990"/>
-<entry endPc="268436385" name="cos" stackId="8" startPc="268435990"/>
-<entry endPc="268436385" name="coords" stackId="6" startPc="268435990"/>
-<entry endPc="268436386" name="handLength" stackId="3" startPc="268435986"/>
-<entry endPc="268436386" name="tailLength" stackId="4" startPc="268435986"/>
-<entry endPc="268436386" name="width" stackId="5" startPc="268435986"/>
-<entry endPc="268436386" name="angle" stackId="2" startPc="268435986"/>
-<entry endPc="268436386" name="centerPoint" stackId="1" startPc="268435986"/>
-<entry endPc="268436987" name="x" stackId="12" startPc="268436864"/>
-<entry endPc="268436987" name="y" stackId="13" startPc="268436864"/>
-<entry endPc="268437000" name="i" stackId="11" startPc="268436864"/>
-<entry endPc="268437003" name="result" stackId="8" startPc="268436390"/>
-<entry endPc="268437003" name="sin" stackId="10" startPc="268436390"/>
-<entry endPc="268437003" name="cos" stackId="9" startPc="268436390"/>
-<entry endPc="268437003" name="coords" stackId="7" startPc="268436390"/>
-<entry endPc="268437004" name="handLength" stackId="3" startPc="268436386"/>
-<entry endPc="268437004" name="tailLength" stackId="4" startPc="268436386"/>
-<entry endPc="268437004" name="width" stackId="5" startPc="268436386"/>
-<entry endPc="268437004" name="tailWidthLength" stackId="6" startPc="268436386"/>
-<entry endPc="268437004" name="angle" stackId="2" startPc="268436386"/>
-<entry endPc="268437004" name="centerPoint" stackId="1" startPc="268436386"/>
-<entry endPc="268437387" name="x" stackId="12" startPc="268437264"/>
-<entry endPc="268437387" name="y" stackId="13" startPc="268437264"/>
-<entry endPc="268437400" name="i" stackId="11" startPc="268437264"/>
-<entry endPc="268437403" name="result" stackId="8" startPc="268437008"/>
-<entry endPc="268437403" name="sin" stackId="10" startPc="268437008"/>
-<entry endPc="268437403" name="cos" stackId="9" startPc="268437008"/>
-<entry endPc="268437403" name="coords" stackId="7" startPc="268437008"/>
-<entry endPc="268437404" name="handLength" stackId="3" startPc="268437004"/>
-<entry endPc="268437404" name="tailLength" stackId="4" startPc="268437004"/>
-<entry endPc="268437404" name="widthEnd" stackId="6" startPc="268437004"/>
-<entry endPc="268437404" name="angle" stackId="2" startPc="268437004"/>
-<entry endPc="268437404" name="widthStart" stackId="5" startPc="268437004"/>
-<entry endPc="268437404" name="centerPoint" stackId="1" startPc="268437004"/>
-<entry endPc="268437781" name="x" stackId="12" startPc="268437658"/>
-<entry endPc="268437781" name="y" stackId="13" startPc="268437658"/>
-<entry endPc="268437794" name="i" stackId="11" startPc="268437658"/>
-<entry endPc="268437797" name="result" stackId="8" startPc="268437408"/>
-<entry endPc="268437797" name="sin" stackId="10" startPc="268437408"/>
-<entry endPc="268437797" name="cos" stackId="9" startPc="268437408"/>
-<entry endPc="268437797" name="coords" stackId="7" startPc="268437408"/>
-<entry endPc="268437798" name="handLength" stackId="3" startPc="268437404"/>
-<entry endPc="268437798" name="tailLength" stackId="4" startPc="268437404"/>
-<entry endPc="268437798" name="widthEnd" stackId="6" startPc="268437404"/>
-<entry endPc="268437798" name="angle" stackId="2" startPc="268437404"/>
-<entry endPc="268437798" name="widthStart" stackId="5" startPc="268437404"/>
-<entry endPc="268437798" name="centerPoint" stackId="1" startPc="268437404"/>
-<entry endPc="268438163" name="x" stackId="12" startPc="268438040"/>
-<entry endPc="268438163" name="y" stackId="13" startPc="268438040"/>
-<entry endPc="268438176" name="i" stackId="11" startPc="268438040"/>
-<entry endPc="268438179" name="result" stackId="8" startPc="268437802"/>
-<entry endPc="268438179" name="sin" stackId="10" startPc="268437802"/>
-<entry endPc="268438179" name="cos" stackId="9" startPc="268437802"/>
-<entry endPc="268438179" name="coords" stackId="7" startPc="268437802"/>
-<entry endPc="268438180" name="handLength" stackId="3" startPc="268437798"/>
-<entry endPc="268438180" name="tailLength" stackId="4" startPc="268437798"/>
-<entry endPc="268438180" name="widthEnd" stackId="6" startPc="268437798"/>
-<entry endPc="268438180" name="angle" stackId="2" startPc="268437798"/>
-<entry endPc="268438180" name="widthStart" stackId="5" startPc="268437798"/>
-<entry endPc="268438180" name="centerPoint" stackId="1" startPc="268437798"/>
-<entry endPc="268438668" name="i" stackId="10" startPc="268438379"/>
-<entry endPc="268438668" name="eY" stackId="7" startPc="268438309"/>
-<entry endPc="268438668" name="eX" stackId="6" startPc="268438309"/>
-<entry endPc="268438668" name="innerRad" stackId="9" startPc="268438309"/>
-<entry endPc="268438668" name="outerRad" stackId="8" startPc="268438309"/>
-<entry endPc="268438668" name="sY" stackId="5" startPc="268438309"/>
-<entry endPc="268438668" name="sX" stackId="4" startPc="268438309"/>
-<entry endPc="268439551" name="height" stackId="3" startPc="268438184"/>
-<entry endPc="268439551" name="width" stackId="2" startPc="268438184"/>
-<entry endPc="268439552" name="dc" stackId="1" startPc="268438180"/>
-<entry endPc="268440869" name="hours" stackId="9" startPc="268440584"/>
-<entry endPc="268440869" name="timeString" stackId="10" startPc="268440584"/>
-<entry endPc="268440869" name="clockTime" stackId="8" startPc="268440584"/>
-<entry endPc="268440869" name="timeFormat" stackId="7" startPc="268440584"/>
-<entry endPc="268440879" name="height" stackId="3" startPc="268439556"/>
-<entry endPc="268440879" name="secondHand" stackId="5" startPc="268439556"/>
-<entry endPc="268440879" name="targetDc" stackId="6" startPc="268439556"/>
-<entry endPc="268440879" name="width" stackId="2" startPc="268439556"/>
-<entry endPc="268440879" name="clockTime" stackId="4" startPc="268439556"/>
-<entry endPc="268440880" name="dc" stackId="1" startPc="268439552"/>
-<entry endPc="268441250" name="dateStr" stackId="5" startPc="268440884"/>
-<entry endPc="268441250" name="fontHeight" stackId="6" startPc="268440884"/>
-<entry endPc="268441250" name="info" stackId="4" startPc="268440884"/>
-<entry endPc="268441251" name="x" stackId="2" startPc="268440880"/>
-<entry endPc="268441251" name="dc" stackId="1" startPc="268440880"/>
-<entry endPc="268441251" name="y" stackId="3" startPc="268440880"/>
-<entry endPc="268441628" name="dataString" stackId="4" startPc="268441255"/>
-<entry endPc="268441628" name="fontHeight" stackId="5" startPc="268441255"/>
-<entry endPc="268441629" name="x" stackId="2" startPc="268441251"/>
-<entry endPc="268441629" name="dc" stackId="1" startPc="268441251"/>
-<entry endPc="268441629" name="y" stackId="3" startPc="268441251"/>
-<entry endPc="268441883" name="steps" stackId="5" startPc="268441633"/>
-<entry endPc="268441883" name="width" stackId="7" startPc="268441633"/>
-<entry endPc="268441883" name="info" stackId="4" startPc="268441633"/>
-<entry endPc="268441883" name="stepsString" stackId="6" startPc="268441633"/>
-<entry endPc="268441884" name="x" stackId="2" startPc="268441629"/>
-<entry endPc="268441884" name="dc" stackId="1" startPc="268441629"/>
-<entry endPc="268441884" name="y" stackId="3" startPc="268441629"/>
-<entry endPc="268443003" name="hourHandAngle" stackId="6" startPc="268441888"/>
-<entry endPc="268443003" name="height" stackId="4" startPc="268441888"/>
-<entry endPc="268443003" name="secondHand" stackId="7" startPc="268441888"/>
-<entry endPc="268443003" name="minuteHandAngle" stackId="5" startPc="268441888"/>
-<entry endPc="268443003" name="width" stackId="3" startPc="268441888"/>
-<entry endPc="268443003" name="maxHand" stackId="8" startPc="268441888"/>
-<entry endPc="268443004" name="dc" stackId="1" startPc="268441884"/>
-<entry endPc="268443004" name="clockTime" stackId="2" startPc="268441884"/>
-<entry endPc="268443410" name="bboxHeight" stackId="6" startPc="268443008"/>
-<entry endPc="268443410" name="secondHand" stackId="3" startPc="268443008"/>
-<entry endPc="268443410" name="secondHandPoints" stackId="4" startPc="268443008"/>
-<entry endPc="268443410" name="bboxWidth" stackId="5" startPc="268443008"/>
-<entry endPc="268443410" name="clockTime" stackId="2" startPc="268443008"/>
-<entry endPc="268443411" name="dc" stackId="1" startPc="268443004"/>
-<entry endPc="268443700" name="i" stackId="4" startPc="268443507"/>
-<entry endPc="268443727" name="max" stackId="3" startPc="268443415"/>
-<entry endPc="268443727" name="min" stackId="2" startPc="268443415"/>
-<entry endPc="268443728" name="points" stackId="1" startPc="268443411"/>
-<entry endPc="268443779" name="dc" stackId="1" startPc="268443728"/>
-<entry endPc="268443900" name="powerInfo" stackId="1" startPc="268443825"/>
-<entry endPc="268444095" name="goal" stackId="1" startPc="268443901"/>
-<entry endPc="268444112" name="dc" stackId="1" startPc="268444095"/>
-<entry endPc="268444495" name="height" stackId="3" startPc="268444116"/>
-<entry endPc="268444495" name="dateStr" stackId="7" startPc="268444116"/>
-<entry endPc="268444495" name="now" stackId="5" startPc="268444116"/>
-<entry endPc="268444495" name="width" stackId="2" startPc="268444116"/>
-<entry endPc="268444495" name="clockTime" stackId="4" startPc="268444116"/>
-<entry endPc="268444495" name="info" stackId="6" startPc="268444116"/>
-<entry endPc="268444496" name="dc" stackId="1" startPc="268444112"/>
-<entry endPc="268444548" name="state" stackId="1" startPc="268444543"/>
-<entry endPc="268444553" name="state" stackId="1" startPc="268444548"/>
-<entry endPc="268444795" name="goal" stackId="1" startPc="268444751"/>
+<entry endPc="268435508" name="state" stackId="1" startPc="268435503"/>
+<entry endPc="268435513" name="state" stackId="1" startPc="268435508"/>
+<entry endPc="268435755" name="goal" stackId="1" startPc="268435711"/>
+<entry endPc="268436285" name="dc" stackId="1" startPc="268435851"/>
+<entry endPc="268436668" name="x" stackId="11" startPc="268436545"/>
+<entry endPc="268436668" name="y" stackId="12" startPc="268436545"/>
+<entry endPc="268436681" name="i" stackId="10" startPc="268436545"/>
+<entry endPc="268436684" name="result" stackId="7" startPc="268436289"/>
+<entry endPc="268436684" name="sin" stackId="9" startPc="268436289"/>
+<entry endPc="268436684" name="cos" stackId="8" startPc="268436289"/>
+<entry endPc="268436684" name="coords" stackId="6" startPc="268436289"/>
+<entry endPc="268436685" name="handLength" stackId="3" startPc="268436285"/>
+<entry endPc="268436685" name="tailLength" stackId="4" startPc="268436285"/>
+<entry endPc="268436685" name="width" stackId="5" startPc="268436285"/>
+<entry endPc="268436685" name="angle" stackId="2" startPc="268436285"/>
+<entry endPc="268436685" name="centerPoint" stackId="1" startPc="268436285"/>
+<entry endPc="268437286" name="x" stackId="12" startPc="268437163"/>
+<entry endPc="268437286" name="y" stackId="13" startPc="268437163"/>
+<entry endPc="268437299" name="i" stackId="11" startPc="268437163"/>
+<entry endPc="268437302" name="result" stackId="8" startPc="268436689"/>
+<entry endPc="268437302" name="sin" stackId="10" startPc="268436689"/>
+<entry endPc="268437302" name="cos" stackId="9" startPc="268436689"/>
+<entry endPc="268437302" name="coords" stackId="7" startPc="268436689"/>
+<entry endPc="268437303" name="handLength" stackId="3" startPc="268436685"/>
+<entry endPc="268437303" name="tailLength" stackId="4" startPc="268436685"/>
+<entry endPc="268437303" name="width" stackId="5" startPc="268436685"/>
+<entry endPc="268437303" name="tailWidthLength" stackId="6" startPc="268436685"/>
+<entry endPc="268437303" name="angle" stackId="2" startPc="268436685"/>
+<entry endPc="268437303" name="centerPoint" stackId="1" startPc="268436685"/>
+<entry endPc="268437686" name="x" stackId="12" startPc="268437563"/>
+<entry endPc="268437686" name="y" stackId="13" startPc="268437563"/>
+<entry endPc="268437699" name="i" stackId="11" startPc="268437563"/>
+<entry endPc="268437702" name="result" stackId="8" startPc="268437307"/>
+<entry endPc="268437702" name="sin" stackId="10" startPc="268437307"/>
+<entry endPc="268437702" name="cos" stackId="9" startPc="268437307"/>
+<entry endPc="268437702" name="coords" stackId="7" startPc="268437307"/>
+<entry endPc="268437703" name="handLength" stackId="3" startPc="268437303"/>
+<entry endPc="268437703" name="tailLength" stackId="4" startPc="268437303"/>
+<entry endPc="268437703" name="widthEnd" stackId="6" startPc="268437303"/>
+<entry endPc="268437703" name="angle" stackId="2" startPc="268437303"/>
+<entry endPc="268437703" name="widthStart" stackId="5" startPc="268437303"/>
+<entry endPc="268437703" name="centerPoint" stackId="1" startPc="268437303"/>
+<entry endPc="268438080" name="x" stackId="12" startPc="268437957"/>
+<entry endPc="268438080" name="y" stackId="13" startPc="268437957"/>
+<entry endPc="268438093" name="i" stackId="11" startPc="268437957"/>
+<entry endPc="268438096" name="result" stackId="8" startPc="268437707"/>
+<entry endPc="268438096" name="sin" stackId="10" startPc="268437707"/>
+<entry endPc="268438096" name="cos" stackId="9" startPc="268437707"/>
+<entry endPc="268438096" name="coords" stackId="7" startPc="268437707"/>
+<entry endPc="268438097" name="handLength" stackId="3" startPc="268437703"/>
+<entry endPc="268438097" name="tailLength" stackId="4" startPc="268437703"/>
+<entry endPc="268438097" name="widthEnd" stackId="6" startPc="268437703"/>
+<entry endPc="268438097" name="angle" stackId="2" startPc="268437703"/>
+<entry endPc="268438097" name="widthStart" stackId="5" startPc="268437703"/>
+<entry endPc="268438097" name="centerPoint" stackId="1" startPc="268437703"/>
+<entry endPc="268438462" name="x" stackId="12" startPc="268438339"/>
+<entry endPc="268438462" name="y" stackId="13" startPc="268438339"/>
+<entry endPc="268438475" name="i" stackId="11" startPc="268438339"/>
+<entry endPc="268438478" name="result" stackId="8" startPc="268438101"/>
+<entry endPc="268438478" name="sin" stackId="10" startPc="268438101"/>
+<entry endPc="268438478" name="cos" stackId="9" startPc="268438101"/>
+<entry endPc="268438478" name="coords" stackId="7" startPc="268438101"/>
+<entry endPc="268438479" name="handLength" stackId="3" startPc="268438097"/>
+<entry endPc="268438479" name="tailLength" stackId="4" startPc="268438097"/>
+<entry endPc="268438479" name="widthEnd" stackId="6" startPc="268438097"/>
+<entry endPc="268438479" name="angle" stackId="2" startPc="268438097"/>
+<entry endPc="268438479" name="widthStart" stackId="5" startPc="268438097"/>
+<entry endPc="268438479" name="centerPoint" stackId="1" startPc="268438097"/>
+<entry endPc="268438967" name="i" stackId="10" startPc="268438678"/>
+<entry endPc="268438967" name="eY" stackId="7" startPc="268438608"/>
+<entry endPc="268438967" name="eX" stackId="6" startPc="268438608"/>
+<entry endPc="268438967" name="innerRad" stackId="9" startPc="268438608"/>
+<entry endPc="268438967" name="outerRad" stackId="8" startPc="268438608"/>
+<entry endPc="268438967" name="sY" stackId="5" startPc="268438608"/>
+<entry endPc="268438967" name="sX" stackId="4" startPc="268438608"/>
+<entry endPc="268439850" name="height" stackId="3" startPc="268438483"/>
+<entry endPc="268439850" name="width" stackId="2" startPc="268438483"/>
+<entry endPc="268439851" name="dc" stackId="1" startPc="268438479"/>
+<entry endPc="268441168" name="hours" stackId="9" startPc="268440883"/>
+<entry endPc="268441168" name="timeString" stackId="10" startPc="268440883"/>
+<entry endPc="268441168" name="clockTime" stackId="8" startPc="268440883"/>
+<entry endPc="268441168" name="timeFormat" stackId="7" startPc="268440883"/>
+<entry endPc="268441178" name="height" stackId="3" startPc="268439855"/>
+<entry endPc="268441178" name="secondHand" stackId="5" startPc="268439855"/>
+<entry endPc="268441178" name="targetDc" stackId="6" startPc="268439855"/>
+<entry endPc="268441178" name="width" stackId="2" startPc="268439855"/>
+<entry endPc="268441178" name="clockTime" stackId="4" startPc="268439855"/>
+<entry endPc="268441179" name="dc" stackId="1" startPc="268439851"/>
+<entry endPc="268441549" name="dateStr" stackId="5" startPc="268441183"/>
+<entry endPc="268441549" name="fontHeight" stackId="6" startPc="268441183"/>
+<entry endPc="268441549" name="info" stackId="4" startPc="268441183"/>
+<entry endPc="268441550" name="x" stackId="2" startPc="268441179"/>
+<entry endPc="268441550" name="dc" stackId="1" startPc="268441179"/>
+<entry endPc="268441550" name="y" stackId="3" startPc="268441179"/>
+<entry endPc="268441927" name="dataString" stackId="4" startPc="268441554"/>
+<entry endPc="268441927" name="fontHeight" stackId="5" startPc="268441554"/>
+<entry endPc="268441928" name="x" stackId="2" startPc="268441550"/>
+<entry endPc="268441928" name="dc" stackId="1" startPc="268441550"/>
+<entry endPc="268441928" name="y" stackId="3" startPc="268441550"/>
+<entry endPc="268442182" name="steps" stackId="5" startPc="268441932"/>
+<entry endPc="268442182" name="width" stackId="7" startPc="268441932"/>
+<entry endPc="268442182" name="info" stackId="4" startPc="268441932"/>
+<entry endPc="268442182" name="stepsString" stackId="6" startPc="268441932"/>
+<entry endPc="268442183" name="x" stackId="2" startPc="268441928"/>
+<entry endPc="268442183" name="dc" stackId="1" startPc="268441928"/>
+<entry endPc="268442183" name="y" stackId="3" startPc="268441928"/>
+<entry endPc="268443302" name="hourHandAngle" stackId="6" startPc="268442187"/>
+<entry endPc="268443302" name="height" stackId="4" startPc="268442187"/>
+<entry endPc="268443302" name="secondHand" stackId="7" startPc="268442187"/>
+<entry endPc="268443302" name="minuteHandAngle" stackId="5" startPc="268442187"/>
+<entry endPc="268443302" name="width" stackId="3" startPc="268442187"/>
+<entry endPc="268443302" name="maxHand" stackId="8" startPc="268442187"/>
+<entry endPc="268443303" name="dc" stackId="1" startPc="268442183"/>
+<entry endPc="268443303" name="clockTime" stackId="2" startPc="268442183"/>
+<entry endPc="268443709" name="bboxHeight" stackId="6" startPc="268443307"/>
+<entry endPc="268443709" name="secondHand" stackId="3" startPc="268443307"/>
+<entry endPc="268443709" name="secondHandPoints" stackId="4" startPc="268443307"/>
+<entry endPc="268443709" name="bboxWidth" stackId="5" startPc="268443307"/>
+<entry endPc="268443709" name="clockTime" stackId="2" startPc="268443307"/>
+<entry endPc="268443710" name="dc" stackId="1" startPc="268443303"/>
+<entry endPc="268443999" name="i" stackId="4" startPc="268443806"/>
+<entry endPc="268444026" name="max" stackId="3" startPc="268443714"/>
+<entry endPc="268444026" name="min" stackId="2" startPc="268443714"/>
+<entry endPc="268444027" name="points" stackId="1" startPc="268443710"/>
+<entry endPc="268444078" name="dc" stackId="1" startPc="268444027"/>
+<entry endPc="268444199" name="powerInfo" stackId="1" startPc="268444124"/>
+<entry endPc="268444396" name="goal" stackId="1" startPc="268444202"/>
+<entry endPc="268444413" name="dc" stackId="1" startPc="268444396"/>
+<entry endPc="268444796" name="height" stackId="3" startPc="268444417"/>
+<entry endPc="268444796" name="dateStr" stackId="7" startPc="268444417"/>
+<entry endPc="268444796" name="now" stackId="5" startPc="268444417"/>
+<entry endPc="268444796" name="width" stackId="2" startPc="268444417"/>
+<entry endPc="268444796" name="clockTime" stackId="4" startPc="268444417"/>
+<entry endPc="268444796" name="info" stackId="6" startPc="268444417"/>
+<entry endPc="268444797" name="dc" stackId="1" startPc="268444413"/>
 </localVars>
 <annotations/>
 <functions>
+<functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="AnalogView">
 <documentation/>
 </functionEntry>
@@ -613,27 +634,6 @@
 </functionEntry>
 <functionEntry accessMode="public" name="onUpdate" parent="AnalogGoalView">
 <param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onSettingsChanged" parent="AnalogWatch">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
-<param id="goal"/>
 <documentation/>
 </functionEntry>
 </functions>
