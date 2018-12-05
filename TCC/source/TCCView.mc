@@ -85,6 +85,15 @@ class TCCView extends WatchUi.WatchFace
     // 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.
       function generateHandCoordinates(centerPoint, angle, handLength, tailLength, width) {
         // Map out the coordinates of the watch hand
+		 //     2 __ 3
+		 //      |  |
+		 //      |  |
+		 //      |  |
+		 //      |  |
+		 //      | o|
+	     //      |  |
+		 //      |__|
+		 //     1    4
         var coords = [[-(width/2), tailLength], [-(width / 2), -handLength], [width / 2, -handLength]  , [width/2 , tailLength]];
         
         var result = new [4];
@@ -104,15 +113,28 @@ class TCCView extends WatchUi.WatchFace
     
     function generateHandCoordinates1(centerPoint, angle, handLength, tailLength, width, tailWidthLength) {
         // Map out the coordinates of the watch hand
-        var coords = [[-(width*0.75), tailLength], [-(width*0.75), tailWidthLength ] , [-(width /2), tailWidthLength ], [-(width / 2), -handLength], [ 1 / 2, - handLength - width], [width / 2, -handLength] ,[width / 2, tailWidthLength]  , [width*0.75 , tailWidthLength] , [width*0.75 , tailLength]];
+         //        6
+		 //       /\
+		 //     5/  \7
+		 //      |  |
+		 //      |  |
+		 //      |  |
+		 //      |  |
+		 //      | o|
+		 //    3 |  | 9
+		 //     |4  8|
+         //     |____|
+		 //    2   1  10
+        var coords = [[1/ 2, tailLength],[-width*0.75, tailLength], [-width*0.75, tailWidthLength ] , [-width /2, tailWidthLength ], [-width  /2, -handLength+width/2], [ 1 / 2, - handLength], [width / 2, -handLength+width/2] ,[width / 2, tailWidthLength]  , [width*0.75 , tailWidthLength] , [width*0.75 , tailLength]];
+        //var coords = [[1/ 2, tailLength],[-(width*0.75), tailLength], [-(width*0.75), tailWidthLength ] , [-(width /2), tailWidthLength ], [-(width / 2), -handLength], [ 1 / 2, - handLength - width], [width / 2, -handLength] ,[width / 2, tailWidthLength]  , [width*0.75 , tailWidthLength] , [width*0.75 , tailLength]];     
         //var coords = [[-(width/2), tailLength], [-(width / 2), -handLength], [width / 2, -handLength]  , [width/2 , tailLength]];
         
-        var result = new [9];
+        var result = new [10];
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
 	
         // Transform the coordinates
-        for (var i = 0; i < 9; i += 1) {
+        for (var i = 0; i < 10; i += 1) {
             
             var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
             var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
@@ -122,16 +144,28 @@ class TCCView extends WatchUi.WatchFace
        
         return result;
     }
-     
+    
+   
     function generateHandCoordinates2(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
         // Map out the coordinates of the watch hand
-        var coords = [[-(1 / 2), tailLength+5], [-(widthStart / 2), tailLength], [-(widthEnd / 2), -handLength+5], [1 / 2, -handLength] , [widthEnd / 2, -handLength+5], [widthStart / 2, tailLength]];
-        var result = new [4];
+         //        4
+		 //       /\
+		 //     3/  \5
+		 //      |  |
+		 //      |  |
+		 //      |  |
+		 //      | o|
+		 //      |  |
+		 //     2\  /6
+		 //       \/
+		 //        1
+        var coords = [[1 / 2, tailLength], [-widthStart / 2, tailLength-widthStart/2], [-widthEnd / 2, -handLength+widthEnd/2], [1 / 2, -handLength] , [widthEnd / 2, -handLength+widthEnd/2], [widthStart / 2, tailLength-widthStart/2]];
+        var result = new [6];
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
 
         // Transform the coordinates
-        for (var i = 0; i < 4; i += 1) {
+        for (var i = 0; i < 6; i += 1) {
             var x = (coords[i][0] * cos) - (coords[i][1] * sin) + 0.5;
             var y = (coords[i][0] * sin) + (coords[i][1] * cos) + 0.5;
 
@@ -142,8 +176,20 @@ class TCCView extends WatchUi.WatchFace
     }
     
     function generateHandCoordinates3(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
-        // Map out the coordinates of the watch hand
-        var coords = [[-(widthStart / 2), tailLength], [-(widthEnd / 2), -handLength+5], [1 / 2, -handLength], [1 / 2, tailLength+5]];
+		  // Map out the coordinates of the watch hand
+		 //        4
+		 //       /|
+		 //     3/ |
+		 //      | |
+		 //      | |
+		 //      | |
+		 //      | o
+		 //      | |
+		 //     2\ |
+		 //       \|
+		 //        1
+       
+        var coords = [[1 / 2, tailLength], [-widthStart / 2, tailLength-widthStart/2], [-widthEnd / 2, -handLength+widthEnd/2], [1 / 2, -handLength]];
         var result = new [4];
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
@@ -159,8 +205,21 @@ class TCCView extends WatchUi.WatchFace
         return result;
     }
     function generateHandCoordinates4(centerPoint, angle, handLength, tailLength, widthStart, widthEnd ) {
-        // Map out the coordinates of the watch hand
-        var coords = [[-(1 / 2), tailLength+5], [-(1 / 2), -handLength], [widthEnd / 2, -handLength+5], [widthStart / 2, tailLength]];
+         // Map out the coordinates of the watch hand
+		 //       4
+		 //       |\
+		 //       | \3 
+		 //       | |
+		 //       | |
+		 //       | |
+		 //       o |
+		 //       | |
+		 //       | /2
+		 //       |/
+		 //       1
+        
+        
+        var coords = [[1 / 2, tailLength], [widthStart / 2, tailLength-widthStart/2], [widthEnd / 2, -handLength+widthEnd/2], [1 / 2, -handLength]];
         var result = new [4];
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
@@ -262,7 +321,7 @@ class TCCView extends WatchUi.WatchFace
         
 
         // Fill the entire background with Black.
-        targetDc.setColor(bkgColor, Graphics.COLOR_WHITE);
+        targetDc.setColor(bkgColor, Graphics.COLOR_BLACK);
         targetDc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
 
 		// Draw background image
@@ -294,16 +353,23 @@ class TCCView extends WatchUi.WatchFace
 	            // directly in the full update method.
 	            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
 	            secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-	
-	            dc.fillPolygon(generateHandCoordinates1(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95, screenCenterPoint[0]*0.40, 6 , screenCenterPoint[0]*0.40));
+				var points = generateHandCoordinates1(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95, screenCenterPoint[0]*0.30, 6 , screenCenterPoint[0]*0.30);
+	            var circlePoint = [points[0][0], points[0][1]] ;
+	            dc.fillPolygon(points);
+	            dc.fillCircle(circlePoint[0],circlePoint[1], 8);
 	            dc.setColor(Graphics.COLOR_DK_GREEN, Graphics.COLOR_BLACK);
        			//dc.fillCircle(screenCenterPoint[0], screenCenterPoint[1], 6);
-
-		       dc.fillPolygon(generateHandCoordinates1(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95-2, screenCenterPoint[0]*0.40-2, 4, screenCenterPoint[0]*0.40 -2));
-		       
+				points = generateHandCoordinates1(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95-2, screenCenterPoint[0]*0.30-2, 4, screenCenterPoint[0]*0.30 -2);
+		       dc.fillPolygon(points);
+		       	dc.fillCircle(circlePoint[0],circlePoint[1], 7);
+	
 		       
 		       dc.setColor(Graphics.COLOR_BLACK,Graphics.COLOR_BLACK);
+		       dc.fillCircle(circlePoint[0],circlePoint[1], 3);
 		       dc.fillCircle(screenCenterPoint[0], screenCenterPoint[1], 3);
+		       
+		       dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_BLACK);
+		       dc.fillCircle(circlePoint[0],circlePoint[1], 2);
 	        } else if( partialUpdatesAllowed ) {
 	            // If this device supports partial updates and they are currently
 	            // allowed run the onPartialUpdate method to draw the second hand.
@@ -409,11 +475,11 @@ class TCCView extends WatchUi.WatchFace
         // Draw the minute hand.
         minuteHandAngle = (clockTime.min / 60.0) * Math.PI * 2;
         
-        dc.fillPolygon(generateHandCoordinates2(screenCenterPoint, minuteHandAngle, maxHand*0.9,  maxHand*0.3, maxHand*0.08, maxHand*0.08));
+        dc.fillPolygon(generateHandCoordinates2(screenCenterPoint, minuteHandAngle, maxHand*0.9,  maxHand*0.4, maxHand*0.08, maxHand*0.08));
         dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-        dc.fillPolygon(generateHandCoordinates3(screenCenterPoint, minuteHandAngle, maxHand*0.9- 2, maxHand*0.3-2, maxHand*0.08-2, maxHand*0.08-2));
+        dc.fillPolygon(generateHandCoordinates3(screenCenterPoint, minuteHandAngle, maxHand*0.9- 2, maxHand*0.4-2, maxHand*0.08-2, maxHand*0.08-2));
         dc.setColor(forColor, Graphics.COLOR_TRANSPARENT);
-        dc.fillPolygon(generateHandCoordinates4(screenCenterPoint, minuteHandAngle, maxHand*0.9 -2, maxHand*0.3-2, maxHand*0.08-2, maxHand*0.08-2));
+        dc.fillPolygon(generateHandCoordinates4(screenCenterPoint, minuteHandAngle, maxHand*0.9 -2, maxHand*0.4-2, maxHand*0.08-2, maxHand*0.08-2));
         dc.setColor(Graphics.COLOR_DK_GREEN, Graphics.COLOR_TRANSPARENT);
         dc.fillPolygon(generateHandCoordinates(screenCenterPoint, minuteHandAngle, maxHand*0.9 -12, -maxHand*0.3, maxHand*0.08-6));
 
@@ -424,11 +490,11 @@ class TCCView extends WatchUi.WatchFace
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
 
-        dc.fillPolygon(generateHandCoordinates2(screenCenterPoint, hourHandAngle, maxHand*0.7, maxHand*0.3, maxHand*0.1, maxHand*0.1));
+        dc.fillPolygon(generateHandCoordinates2(screenCenterPoint, hourHandAngle, maxHand*0.7, maxHand*0.4, maxHand*0.1, maxHand*0.1));
         dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
-        dc.fillPolygon(generateHandCoordinates3(screenCenterPoint, hourHandAngle, maxHand*0.7-2, maxHand*0.3-2, maxHand*0.1-2, maxHand*0.1-2));
+        dc.fillPolygon(generateHandCoordinates3(screenCenterPoint, hourHandAngle, maxHand*0.7-2, maxHand*0.4-2, maxHand*0.1-2, maxHand*0.1-2));
         dc.setColor(forColor, Graphics.COLOR_TRANSPARENT);
-        dc.fillPolygon(generateHandCoordinates4(screenCenterPoint, hourHandAngle, maxHand*0.7-2, maxHand*0.3-2, maxHand*0.1-2, maxHand*0.1-2));
+        dc.fillPolygon(generateHandCoordinates4(screenCenterPoint, hourHandAngle, maxHand*0.7-2, maxHand*0.4-2, maxHand*0.1-2, maxHand*0.1-2));
         dc.setColor(Graphics.COLOR_DK_GREEN, Graphics.COLOR_TRANSPARENT);
         dc.fillPolygon(generateHandCoordinates(screenCenterPoint, hourHandAngle, maxHand*0.7 -12, -maxHand*0.3, maxHand*0.1-6));
 
@@ -461,7 +527,7 @@ class TCCView extends WatchUi.WatchFace
 		
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95, screenCenterPoint[0]*0.40, 5);
+        var secondHandPoints = generateHandCoordinates(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95, screenCenterPoint[0]*0.30, 5);
         //var secondHandPoints =generateHandCoordinates1(screenCenterPoint, secondHand, screenCenterPoint[0]*0.95-2, screenCenterPoint[0]*0.40-2, 5, screenCenterPoint[0]*0.20 );
 		    
         // Update the cliping rectangle to the new location of the second hand.

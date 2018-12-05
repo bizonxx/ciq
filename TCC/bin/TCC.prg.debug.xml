@@ -26,232 +26,240 @@
 <entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="9" lineNum="76" pc="268436152" symbol="onLayout"/>
 <entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="9" lineNum="78" pc="268436161" symbol="onLayout"/>
 <entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="86" pc="268436226" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="88" pc="268436230" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="90" pc="268436422" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="91" pc="268436430" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="92" pc="268436449" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="95" pc="268436468" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="96" pc="268436486" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="97" pc="268436523" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="99" pc="268436560" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="102" pc="268436622" symbol="generateHandCoordinates"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="105" pc="268436626" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="107" pc="268436630" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="110" pc="268437040" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="111" pc="268437048" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="112" pc="268437067" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="115" pc="268437086" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="117" pc="268437104" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="118" pc="268437141" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="120" pc="268437178" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="123" pc="268437240" symbol="generateHandCoordinates1"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="126" pc="268437244" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="128" pc="268437248" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="129" pc="268437538" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="130" pc="268437546" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="131" pc="268437565" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="134" pc="268437584" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="135" pc="268437602" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="136" pc="268437639" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="138" pc="268437676" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="141" pc="268437738" symbol="generateHandCoordinates2"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="144" pc="268437742" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="146" pc="268437746" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="147" pc="268437944" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="148" pc="268437952" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="149" pc="268437971" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="152" pc="268437990" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="153" pc="268438008" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="154" pc="268438045" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="156" pc="268438082" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="159" pc="268438144" symbol="generateHandCoordinates3"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="161" pc="268438148" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="163" pc="268438152" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="164" pc="268438338" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="165" pc="268438346" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="166" pc="268438365" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="169" pc="268438384" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="170" pc="268438402" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="171" pc="268438439" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="173" pc="268438476" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="176" pc="268438538" symbol="generateHandCoordinates4"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="181" pc="268438542" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="182" pc="268438546" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="183" pc="268438559" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="185" pc="268438572" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="187" pc="268438647" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="188" pc="268438671" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="189" pc="268438688" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="190" pc="268438688" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="191" pc="268438688" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="192" pc="268438698" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="195" pc="268438708" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="197" pc="268438758" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="198" pc="268438783" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="199" pc="268438808" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="200" pc="268438833" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="201" pc="268438858" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="202" pc="268438878" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="203" pc="268438901" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="204" pc="268438926" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="205" pc="268438951" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="206" pc="268438976" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="207" pc="268439001" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="210" pc="268439050" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="211" pc="268439264" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="212" pc="268439490" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="213" pc="268439704" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="226" pc="268439930" symbol="drawHashMarks"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="237" pc="268439948" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="238" pc="268439952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="239" pc="268439952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="240" pc="268439952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="241" pc="268439969" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="242" pc="268439969" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="244" pc="268439972" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="245" pc="268439992" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="248" pc="268440012" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="250" pc="268440022" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="251" pc="268440035" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="252" pc="268440047" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="255" pc="268440056" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="257" pc="268440078" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="260" pc="268440082" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="261" pc="268440095" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="265" pc="268440108" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="266" pc="268440140" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="269" pc="268440184" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="273" pc="268440232" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="274" pc="268440320" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="275" pc="268440328" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="276" pc="268440375" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="279" pc="268440428" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="284" pc="268440453" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="286" pc="268440467" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="289" pc="268440483" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="292" pc="268440497" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="295" pc="268440508" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="296" pc="268440544" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="298" pc="268440579" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="299" pc="268440677" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="302" pc="268440713" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="305" pc="268440829" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="306" pc="268440865" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="307" pc="268440913" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="310" pc="268440924" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="311" pc="268440960" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="315" pc="268440980" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="317" pc="268440994" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="318" pc="268441001" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="319" pc="268441018" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="320" pc="268441028" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="321" pc="268441053" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="322" pc="268441064" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="326" pc="268441080" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="328" pc="268441145" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="329" pc="268441181" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="334" pc="268441265" symbol="onUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="338" pc="268441276" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="339" pc="268441280" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="341" pc="268441324" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="342" pc="268441368" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="344" pc="268441389" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="345" pc="268441421" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="347" pc="268441453" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="348" pc="268441470" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="349" pc="268441506" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="350" pc="268441538" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="352" pc="268441555" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="353" pc="268441587" symbol="drawDateString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="358" pc="268441647" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="361" pc="268441651" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="362" pc="268441704" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="368" pc="268441725" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="369" pc="268441757" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="372" pc="268441795" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="373" pc="268441842" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="374" pc="268441910" symbol="drawBattString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="378" pc="268442025" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="381" pc="268442029" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="383" pc="268442048" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="386" pc="268442058" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="387" pc="268442096" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="388" pc="268442143" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="390" pc="268442176" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="393" pc="268442208" symbol="drawStepsString"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="397" pc="268442280" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="399" pc="268442284" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="400" pc="268442297" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="401" pc="268442310" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="402" pc="268442310" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="403" pc="268442310" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="404" pc="268442310" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="408" pc="268442339" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="410" pc="268442371" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="412" pc="268442406" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="413" pc="268442471" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="414" pc="268442507" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="415" pc="268442596" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="416" pc="268442628" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="417" pc="268442717" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="418" pc="268442753" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="421" pc="268442828" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="423" pc="268442860" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="424" pc="268442891" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="425" pc="268442901" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="427" pc="268442924" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="428" pc="268442989" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="429" pc="268443025" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="430" pc="268443114" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="431" pc="268443146" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="432" pc="268443235" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="433" pc="268443271" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="437" pc="268443346" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="438" pc="268443421" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="439" pc="268443454" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="440" pc="268443486" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="441" pc="268443519" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="442" pc="268443552" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="443" pc="268443588" symbol="drawHands"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="449" pc="268443622" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="454" pc="268443626" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="454" pc="268443650" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="456" pc="268443654" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="457" pc="268443666" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="462" pc="268443683" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="463" pc="268443700" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="464" pc="268443735" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="468" pc="268443803" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="471" pc="268443824" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="472" pc="268443873" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="473" pc="268443922" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="477" pc="268443978" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="480" pc="268444014" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="491" pc="268444029" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="492" pc="268444033" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="493" pc="268444067" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="495" pc="268444101" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="496" pc="268444125" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="497" pc="268444148" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="500" pc="268444170" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="501" pc="268444193" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="504" pc="268444215" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="505" pc="268444238" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="508" pc="268444260" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="509" pc="268444283" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="513" pc="268444318" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="521" pc="268444346" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="525" pc="268444350" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="526" pc="268444363" symbol="drawBackground"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="534" pc="268444397" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="535" pc="268444401" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="536" pc="268444411" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="25" lineNum="541" pc="268444428" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="25" lineNum="542" pc="268444432" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="552" pc="268444443" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="553" pc="268444447" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="554" pc="268444477" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="555" pc="268444507" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="97" pc="268436230" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="99" pc="268436422" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="100" pc="268436430" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="101" pc="268436449" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="104" pc="268436468" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="105" pc="268436486" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="106" pc="268436523" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="108" pc="268436560" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="10" lineNum="111" pc="268436622" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="114" pc="268436626" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="128" pc="268436630" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="132" pc="268437092" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="133" pc="268437100" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="134" pc="268437119" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="137" pc="268437138" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="139" pc="268437156" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="140" pc="268437193" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="142" pc="268437230" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="11" lineNum="145" pc="268437292" symbol="generateHandCoordinates1"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="149" pc="268437296" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="162" pc="268437300" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="163" pc="268437608" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="164" pc="268437616" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="165" pc="268437635" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="168" pc="268437654" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="169" pc="268437672" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="170" pc="268437709" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="172" pc="268437746" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="12" lineNum="175" pc="268437808" symbol="generateHandCoordinates2"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="178" pc="268437812" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="192" pc="268437816" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="193" pc="268438020" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="194" pc="268438028" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="195" pc="268438047" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="198" pc="268438066" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="199" pc="268438084" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="200" pc="268438121" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="202" pc="268438158" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="13" lineNum="205" pc="268438220" symbol="generateHandCoordinates3"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="207" pc="268438224" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="222" pc="268438228" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="223" pc="268438420" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="224" pc="268438428" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="225" pc="268438447" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="228" pc="268438466" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="229" pc="268438484" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="230" pc="268438521" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="232" pc="268438558" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="14" lineNum="235" pc="268438620" symbol="generateHandCoordinates4"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="240" pc="268438624" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="241" pc="268438628" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="242" pc="268438641" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="244" pc="268438654" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="246" pc="268438729" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="247" pc="268438753" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="248" pc="268438770" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="249" pc="268438770" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="250" pc="268438770" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="251" pc="268438780" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="254" pc="268438790" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="256" pc="268438840" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="257" pc="268438865" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="258" pc="268438890" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="259" pc="268438915" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="260" pc="268438940" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="261" pc="268438960" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="262" pc="268438983" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="263" pc="268439008" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="264" pc="268439033" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="265" pc="268439058" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="266" pc="268439083" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="269" pc="268439132" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="270" pc="268439346" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="271" pc="268439572" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="272" pc="268439786" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="15" lineNum="285" pc="268440012" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="296" pc="268440030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="297" pc="268440034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="298" pc="268440034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="299" pc="268440034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="300" pc="268440051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="301" pc="268440051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="303" pc="268440054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="304" pc="268440074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="307" pc="268440094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="309" pc="268440104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="310" pc="268440117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="311" pc="268440129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="314" pc="268440138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="316" pc="268440160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="319" pc="268440164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="320" pc="268440177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="324" pc="268440190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="325" pc="268440222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="328" pc="268440266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="332" pc="268440314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="333" pc="268440402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="334" pc="268440410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="335" pc="268440457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="338" pc="268440510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="343" pc="268440535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="345" pc="268440549" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="348" pc="268440565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="351" pc="268440579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="354" pc="268440590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="355" pc="268440626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="356" pc="268440661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="357" pc="268440749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="358" pc="268440801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="359" pc="268440815" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="360" pc="268440848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="362" pc="268440884" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="363" pc="268440990" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="364" pc="268441004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="367" pc="268441037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="368" pc="268441073" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="369" pc="268441106" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="371" pc="268441151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="372" pc="268441187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="373" pc="268441223" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="376" pc="268441234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="377" pc="268441270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="381" pc="268441290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="383" pc="268441304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="384" pc="268441311" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="385" pc="268441328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="386" pc="268441338" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="387" pc="268441363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="388" pc="268441374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="392" pc="268441390" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="394" pc="268441455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="395" pc="268441491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="16" lineNum="400" pc="268441575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="404" pc="268441586" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="405" pc="268441590" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="407" pc="268441634" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="408" pc="268441678" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="410" pc="268441699" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="411" pc="268441731" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="413" pc="268441763" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="414" pc="268441780" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="415" pc="268441816" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="416" pc="268441848" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="418" pc="268441865" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="17" lineNum="419" pc="268441897" symbol="drawDateString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="424" pc="268441957" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="427" pc="268441961" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="428" pc="268442014" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="434" pc="268442035" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="435" pc="268442067" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="438" pc="268442105" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="439" pc="268442152" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="18" lineNum="440" pc="268442220" symbol="drawBattString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="444" pc="268442335" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="447" pc="268442339" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="449" pc="268442358" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="452" pc="268442368" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="453" pc="268442406" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="454" pc="268442453" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="456" pc="268442486" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="19" lineNum="459" pc="268442518" symbol="drawStepsString"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="463" pc="268442590" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="465" pc="268442594" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="466" pc="268442607" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="467" pc="268442620" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="468" pc="268442620" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="469" pc="268442620" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="470" pc="268442620" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="474" pc="268442649" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="476" pc="268442681" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="478" pc="268442716" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="479" pc="268442781" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="480" pc="268442817" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="481" pc="268442906" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="482" pc="268442938" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="483" pc="268443027" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="484" pc="268443063" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="487" pc="268443138" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="489" pc="268443170" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="490" pc="268443201" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="491" pc="268443211" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="493" pc="268443234" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="494" pc="268443299" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="495" pc="268443335" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="496" pc="268443424" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="497" pc="268443456" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="498" pc="268443545" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="499" pc="268443581" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="503" pc="268443656" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="504" pc="268443731" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="505" pc="268443764" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="506" pc="268443796" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="507" pc="268443829" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="508" pc="268443862" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="20" lineNum="509" pc="268443898" symbol="drawHands"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="515" pc="268443932" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="520" pc="268443936" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="520" pc="268443960" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="522" pc="268443964" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="523" pc="268443976" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="528" pc="268443993" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="529" pc="268444010" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="530" pc="268444045" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="534" pc="268444113" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="537" pc="268444134" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="538" pc="268444183" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="539" pc="268444232" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="543" pc="268444288" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="21" lineNum="546" pc="268444324" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="557" pc="268444339" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="558" pc="268444343" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="559" pc="268444377" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="561" pc="268444411" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="562" pc="268444435" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="563" pc="268444458" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="566" pc="268444480" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="567" pc="268444503" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="570" pc="268444525" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="571" pc="268444548" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="574" pc="268444570" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="575" pc="268444593" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="22" lineNum="579" pc="268444628" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="587" pc="268444656" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="591" pc="268444660" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="23" lineNum="592" pc="268444673" symbol="drawBackground"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="600" pc="268444707" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="601" pc="268444711" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="24" lineNum="602" pc="268444721" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="25" lineNum="607" pc="268444738" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="25" lineNum="608" pc="268444742" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="618" pc="268444753" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="619" pc="268444757" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="620" pc="268444787" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\zuber.KAIMER\\eclipse-workspace\\git\\ciq\\TCC\\source\\TCCView.mc" id="27" lineNum="621" pc="268444817" symbol="onPowerBudgetExceeded"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
@@ -346,116 +354,118 @@
 <entry endPc="268436626" name="width" stackId="5" startPc="268436226"/>
 <entry endPc="268436626" name="angle" stackId="2" startPc="268436226"/>
 <entry endPc="268436626" name="centerPoint" stackId="1" startPc="268436226"/>
-<entry endPc="268437227" name="x" stackId="12" startPc="268437104"/>
-<entry endPc="268437227" name="y" stackId="13" startPc="268437104"/>
-<entry endPc="268437240" name="i" stackId="11" startPc="268437104"/>
-<entry endPc="268437243" name="result" stackId="8" startPc="268436630"/>
-<entry endPc="268437243" name="sin" stackId="10" startPc="268436630"/>
-<entry endPc="268437243" name="cos" stackId="9" startPc="268436630"/>
-<entry endPc="268437243" name="coords" stackId="7" startPc="268436630"/>
-<entry endPc="268437244" name="handLength" stackId="3" startPc="268436626"/>
-<entry endPc="268437244" name="tailLength" stackId="4" startPc="268436626"/>
-<entry endPc="268437244" name="width" stackId="5" startPc="268436626"/>
-<entry endPc="268437244" name="tailWidthLength" stackId="6" startPc="268436626"/>
-<entry endPc="268437244" name="angle" stackId="2" startPc="268436626"/>
-<entry endPc="268437244" name="centerPoint" stackId="1" startPc="268436626"/>
-<entry endPc="268437725" name="x" stackId="12" startPc="268437602"/>
-<entry endPc="268437725" name="y" stackId="13" startPc="268437602"/>
-<entry endPc="268437738" name="i" stackId="11" startPc="268437602"/>
-<entry endPc="268437741" name="result" stackId="8" startPc="268437248"/>
-<entry endPc="268437741" name="sin" stackId="10" startPc="268437248"/>
-<entry endPc="268437741" name="cos" stackId="9" startPc="268437248"/>
-<entry endPc="268437741" name="coords" stackId="7" startPc="268437248"/>
-<entry endPc="268437742" name="handLength" stackId="3" startPc="268437244"/>
-<entry endPc="268437742" name="tailLength" stackId="4" startPc="268437244"/>
-<entry endPc="268437742" name="widthEnd" stackId="6" startPc="268437244"/>
-<entry endPc="268437742" name="angle" stackId="2" startPc="268437244"/>
-<entry endPc="268437742" name="widthStart" stackId="5" startPc="268437244"/>
-<entry endPc="268437742" name="centerPoint" stackId="1" startPc="268437244"/>
-<entry endPc="268438131" name="x" stackId="12" startPc="268438008"/>
-<entry endPc="268438131" name="y" stackId="13" startPc="268438008"/>
-<entry endPc="268438144" name="i" stackId="11" startPc="268438008"/>
-<entry endPc="268438147" name="result" stackId="8" startPc="268437746"/>
-<entry endPc="268438147" name="sin" stackId="10" startPc="268437746"/>
-<entry endPc="268438147" name="cos" stackId="9" startPc="268437746"/>
-<entry endPc="268438147" name="coords" stackId="7" startPc="268437746"/>
-<entry endPc="268438148" name="handLength" stackId="3" startPc="268437742"/>
-<entry endPc="268438148" name="tailLength" stackId="4" startPc="268437742"/>
-<entry endPc="268438148" name="widthEnd" stackId="6" startPc="268437742"/>
-<entry endPc="268438148" name="angle" stackId="2" startPc="268437742"/>
-<entry endPc="268438148" name="widthStart" stackId="5" startPc="268437742"/>
-<entry endPc="268438148" name="centerPoint" stackId="1" startPc="268437742"/>
-<entry endPc="268438525" name="x" stackId="12" startPc="268438402"/>
-<entry endPc="268438525" name="y" stackId="13" startPc="268438402"/>
-<entry endPc="268438538" name="i" stackId="11" startPc="268438402"/>
-<entry endPc="268438541" name="result" stackId="8" startPc="268438152"/>
-<entry endPc="268438541" name="sin" stackId="10" startPc="268438152"/>
-<entry endPc="268438541" name="cos" stackId="9" startPc="268438152"/>
-<entry endPc="268438541" name="coords" stackId="7" startPc="268438152"/>
-<entry endPc="268438542" name="handLength" stackId="3" startPc="268438148"/>
-<entry endPc="268438542" name="tailLength" stackId="4" startPc="268438148"/>
-<entry endPc="268438542" name="widthEnd" stackId="6" startPc="268438148"/>
-<entry endPc="268438542" name="angle" stackId="2" startPc="268438148"/>
-<entry endPc="268438542" name="widthStart" stackId="5" startPc="268438148"/>
-<entry endPc="268438542" name="centerPoint" stackId="1" startPc="268438148"/>
-<entry endPc="268439047" name="i" stackId="10" startPc="268438758"/>
-<entry endPc="268439047" name="eY" stackId="7" startPc="268438671"/>
-<entry endPc="268439047" name="eX" stackId="6" startPc="268438671"/>
-<entry endPc="268439047" name="innerRad" stackId="9" startPc="268438671"/>
-<entry endPc="268439047" name="outerRad" stackId="8" startPc="268438671"/>
-<entry endPc="268439047" name="sY" stackId="5" startPc="268438671"/>
-<entry endPc="268439047" name="sX" stackId="4" startPc="268438671"/>
-<entry endPc="268439947" name="height" stackId="3" startPc="268438546"/>
-<entry endPc="268439947" name="width" stackId="2" startPc="268438546"/>
-<entry endPc="268439948" name="dc" stackId="1" startPc="268438542"/>
-<entry endPc="268441265" name="hours" stackId="9" startPc="268440980"/>
-<entry endPc="268441265" name="timeString" stackId="10" startPc="268440980"/>
-<entry endPc="268441265" name="clockTime" stackId="8" startPc="268440980"/>
-<entry endPc="268441265" name="timeFormat" stackId="7" startPc="268440980"/>
-<entry endPc="268441275" name="height" stackId="3" startPc="268439952"/>
-<entry endPc="268441275" name="secondHand" stackId="5" startPc="268439952"/>
-<entry endPc="268441275" name="targetDc" stackId="6" startPc="268439952"/>
-<entry endPc="268441275" name="width" stackId="2" startPc="268439952"/>
-<entry endPc="268441275" name="clockTime" stackId="4" startPc="268439952"/>
-<entry endPc="268441276" name="dc" stackId="1" startPc="268439948"/>
-<entry endPc="268441646" name="dateStr" stackId="5" startPc="268441280"/>
-<entry endPc="268441646" name="fontHeight" stackId="6" startPc="268441280"/>
-<entry endPc="268441646" name="info" stackId="4" startPc="268441280"/>
-<entry endPc="268441647" name="x" stackId="2" startPc="268441276"/>
-<entry endPc="268441647" name="dc" stackId="1" startPc="268441276"/>
-<entry endPc="268441647" name="y" stackId="3" startPc="268441276"/>
-<entry endPc="268442024" name="dataString" stackId="4" startPc="268441651"/>
-<entry endPc="268442024" name="fontHeight" stackId="5" startPc="268441651"/>
-<entry endPc="268442025" name="x" stackId="2" startPc="268441647"/>
-<entry endPc="268442025" name="dc" stackId="1" startPc="268441647"/>
-<entry endPc="268442025" name="y" stackId="3" startPc="268441647"/>
-<entry endPc="268442279" name="steps" stackId="5" startPc="268442029"/>
-<entry endPc="268442279" name="width" stackId="7" startPc="268442029"/>
-<entry endPc="268442279" name="info" stackId="4" startPc="268442029"/>
-<entry endPc="268442279" name="stepsString" stackId="6" startPc="268442029"/>
-<entry endPc="268442280" name="x" stackId="2" startPc="268442025"/>
-<entry endPc="268442280" name="dc" stackId="1" startPc="268442025"/>
-<entry endPc="268442280" name="y" stackId="3" startPc="268442025"/>
-<entry endPc="268443621" name="hourHandAngle" stackId="6" startPc="268442284"/>
-<entry endPc="268443621" name="height" stackId="4" startPc="268442284"/>
-<entry endPc="268443621" name="secondHand" stackId="7" startPc="268442284"/>
-<entry endPc="268443621" name="minuteHandAngle" stackId="5" startPc="268442284"/>
-<entry endPc="268443621" name="width" stackId="3" startPc="268442284"/>
-<entry endPc="268443621" name="maxHand" stackId="8" startPc="268442284"/>
-<entry endPc="268443622" name="dc" stackId="1" startPc="268442280"/>
-<entry endPc="268443622" name="clockTime" stackId="2" startPc="268442280"/>
-<entry endPc="268444028" name="bboxHeight" stackId="6" startPc="268443626"/>
-<entry endPc="268444028" name="secondHand" stackId="3" startPc="268443626"/>
-<entry endPc="268444028" name="secondHandPoints" stackId="4" startPc="268443626"/>
-<entry endPc="268444028" name="bboxWidth" stackId="5" startPc="268443626"/>
-<entry endPc="268444028" name="clockTime" stackId="2" startPc="268443626"/>
-<entry endPc="268444029" name="dc" stackId="1" startPc="268443622"/>
-<entry endPc="268444318" name="i" stackId="4" startPc="268444125"/>
-<entry endPc="268444345" name="max" stackId="3" startPc="268444033"/>
-<entry endPc="268444345" name="min" stackId="2" startPc="268444033"/>
-<entry endPc="268444346" name="points" stackId="1" startPc="268444029"/>
-<entry endPc="268444397" name="dc" stackId="1" startPc="268444346"/>
-<entry endPc="268444518" name="powerInfo" stackId="1" startPc="268444443"/>
+<entry endPc="268437279" name="x" stackId="12" startPc="268437156"/>
+<entry endPc="268437279" name="y" stackId="13" startPc="268437156"/>
+<entry endPc="268437292" name="i" stackId="11" startPc="268437156"/>
+<entry endPc="268437295" name="result" stackId="8" startPc="268436630"/>
+<entry endPc="268437295" name="sin" stackId="10" startPc="268436630"/>
+<entry endPc="268437295" name="cos" stackId="9" startPc="268436630"/>
+<entry endPc="268437295" name="coords" stackId="7" startPc="268436630"/>
+<entry endPc="268437296" name="handLength" stackId="3" startPc="268436626"/>
+<entry endPc="268437296" name="tailLength" stackId="4" startPc="268436626"/>
+<entry endPc="268437296" name="width" stackId="5" startPc="268436626"/>
+<entry endPc="268437296" name="tailWidthLength" stackId="6" startPc="268436626"/>
+<entry endPc="268437296" name="angle" stackId="2" startPc="268436626"/>
+<entry endPc="268437296" name="centerPoint" stackId="1" startPc="268436626"/>
+<entry endPc="268437795" name="x" stackId="12" startPc="268437672"/>
+<entry endPc="268437795" name="y" stackId="13" startPc="268437672"/>
+<entry endPc="268437808" name="i" stackId="11" startPc="268437672"/>
+<entry endPc="268437811" name="result" stackId="8" startPc="268437300"/>
+<entry endPc="268437811" name="sin" stackId="10" startPc="268437300"/>
+<entry endPc="268437811" name="cos" stackId="9" startPc="268437300"/>
+<entry endPc="268437811" name="coords" stackId="7" startPc="268437300"/>
+<entry endPc="268437812" name="handLength" stackId="3" startPc="268437296"/>
+<entry endPc="268437812" name="tailLength" stackId="4" startPc="268437296"/>
+<entry endPc="268437812" name="widthEnd" stackId="6" startPc="268437296"/>
+<entry endPc="268437812" name="angle" stackId="2" startPc="268437296"/>
+<entry endPc="268437812" name="widthStart" stackId="5" startPc="268437296"/>
+<entry endPc="268437812" name="centerPoint" stackId="1" startPc="268437296"/>
+<entry endPc="268438207" name="x" stackId="12" startPc="268438084"/>
+<entry endPc="268438207" name="y" stackId="13" startPc="268438084"/>
+<entry endPc="268438220" name="i" stackId="11" startPc="268438084"/>
+<entry endPc="268438223" name="result" stackId="8" startPc="268437816"/>
+<entry endPc="268438223" name="sin" stackId="10" startPc="268437816"/>
+<entry endPc="268438223" name="cos" stackId="9" startPc="268437816"/>
+<entry endPc="268438223" name="coords" stackId="7" startPc="268437816"/>
+<entry endPc="268438224" name="handLength" stackId="3" startPc="268437812"/>
+<entry endPc="268438224" name="tailLength" stackId="4" startPc="268437812"/>
+<entry endPc="268438224" name="widthEnd" stackId="6" startPc="268437812"/>
+<entry endPc="268438224" name="angle" stackId="2" startPc="268437812"/>
+<entry endPc="268438224" name="widthStart" stackId="5" startPc="268437812"/>
+<entry endPc="268438224" name="centerPoint" stackId="1" startPc="268437812"/>
+<entry endPc="268438607" name="x" stackId="12" startPc="268438484"/>
+<entry endPc="268438607" name="y" stackId="13" startPc="268438484"/>
+<entry endPc="268438620" name="i" stackId="11" startPc="268438484"/>
+<entry endPc="268438623" name="result" stackId="8" startPc="268438228"/>
+<entry endPc="268438623" name="sin" stackId="10" startPc="268438228"/>
+<entry endPc="268438623" name="cos" stackId="9" startPc="268438228"/>
+<entry endPc="268438623" name="coords" stackId="7" startPc="268438228"/>
+<entry endPc="268438624" name="handLength" stackId="3" startPc="268438224"/>
+<entry endPc="268438624" name="tailLength" stackId="4" startPc="268438224"/>
+<entry endPc="268438624" name="widthEnd" stackId="6" startPc="268438224"/>
+<entry endPc="268438624" name="angle" stackId="2" startPc="268438224"/>
+<entry endPc="268438624" name="widthStart" stackId="5" startPc="268438224"/>
+<entry endPc="268438624" name="centerPoint" stackId="1" startPc="268438224"/>
+<entry endPc="268439129" name="i" stackId="10" startPc="268438840"/>
+<entry endPc="268439129" name="eY" stackId="7" startPc="268438753"/>
+<entry endPc="268439129" name="eX" stackId="6" startPc="268438753"/>
+<entry endPc="268439129" name="innerRad" stackId="9" startPc="268438753"/>
+<entry endPc="268439129" name="outerRad" stackId="8" startPc="268438753"/>
+<entry endPc="268439129" name="sY" stackId="5" startPc="268438753"/>
+<entry endPc="268439129" name="sX" stackId="4" startPc="268438753"/>
+<entry endPc="268440029" name="height" stackId="3" startPc="268438628"/>
+<entry endPc="268440029" name="width" stackId="2" startPc="268438628"/>
+<entry endPc="268440030" name="dc" stackId="1" startPc="268438624"/>
+<entry endPc="268441220" name="circlePoint" stackId="8" startPc="268440590"/>
+<entry endPc="268441220" name="points" stackId="7" startPc="268440590"/>
+<entry endPc="268441575" name="hours" stackId="11" startPc="268441290"/>
+<entry endPc="268441575" name="timeString" stackId="12" startPc="268441290"/>
+<entry endPc="268441575" name="clockTime" stackId="10" startPc="268441290"/>
+<entry endPc="268441575" name="timeFormat" stackId="9" startPc="268441290"/>
+<entry endPc="268441585" name="height" stackId="3" startPc="268440034"/>
+<entry endPc="268441585" name="secondHand" stackId="5" startPc="268440034"/>
+<entry endPc="268441585" name="targetDc" stackId="6" startPc="268440034"/>
+<entry endPc="268441585" name="width" stackId="2" startPc="268440034"/>
+<entry endPc="268441585" name="clockTime" stackId="4" startPc="268440034"/>
+<entry endPc="268441586" name="dc" stackId="1" startPc="268440030"/>
+<entry endPc="268441956" name="dateStr" stackId="5" startPc="268441590"/>
+<entry endPc="268441956" name="fontHeight" stackId="6" startPc="268441590"/>
+<entry endPc="268441956" name="info" stackId="4" startPc="268441590"/>
+<entry endPc="268441957" name="x" stackId="2" startPc="268441586"/>
+<entry endPc="268441957" name="dc" stackId="1" startPc="268441586"/>
+<entry endPc="268441957" name="y" stackId="3" startPc="268441586"/>
+<entry endPc="268442334" name="dataString" stackId="4" startPc="268441961"/>
+<entry endPc="268442334" name="fontHeight" stackId="5" startPc="268441961"/>
+<entry endPc="268442335" name="x" stackId="2" startPc="268441957"/>
+<entry endPc="268442335" name="dc" stackId="1" startPc="268441957"/>
+<entry endPc="268442335" name="y" stackId="3" startPc="268441957"/>
+<entry endPc="268442589" name="steps" stackId="5" startPc="268442339"/>
+<entry endPc="268442589" name="width" stackId="7" startPc="268442339"/>
+<entry endPc="268442589" name="info" stackId="4" startPc="268442339"/>
+<entry endPc="268442589" name="stepsString" stackId="6" startPc="268442339"/>
+<entry endPc="268442590" name="x" stackId="2" startPc="268442335"/>
+<entry endPc="268442590" name="dc" stackId="1" startPc="268442335"/>
+<entry endPc="268442590" name="y" stackId="3" startPc="268442335"/>
+<entry endPc="268443931" name="hourHandAngle" stackId="6" startPc="268442594"/>
+<entry endPc="268443931" name="height" stackId="4" startPc="268442594"/>
+<entry endPc="268443931" name="secondHand" stackId="7" startPc="268442594"/>
+<entry endPc="268443931" name="minuteHandAngle" stackId="5" startPc="268442594"/>
+<entry endPc="268443931" name="width" stackId="3" startPc="268442594"/>
+<entry endPc="268443931" name="maxHand" stackId="8" startPc="268442594"/>
+<entry endPc="268443932" name="dc" stackId="1" startPc="268442590"/>
+<entry endPc="268443932" name="clockTime" stackId="2" startPc="268442590"/>
+<entry endPc="268444338" name="bboxHeight" stackId="6" startPc="268443936"/>
+<entry endPc="268444338" name="secondHand" stackId="3" startPc="268443936"/>
+<entry endPc="268444338" name="secondHandPoints" stackId="4" startPc="268443936"/>
+<entry endPc="268444338" name="bboxWidth" stackId="5" startPc="268443936"/>
+<entry endPc="268444338" name="clockTime" stackId="2" startPc="268443936"/>
+<entry endPc="268444339" name="dc" stackId="1" startPc="268443932"/>
+<entry endPc="268444628" name="i" stackId="4" startPc="268444435"/>
+<entry endPc="268444655" name="max" stackId="3" startPc="268444343"/>
+<entry endPc="268444655" name="min" stackId="2" startPc="268444343"/>
+<entry endPc="268444656" name="points" stackId="1" startPc="268444339"/>
+<entry endPc="268444707" name="dc" stackId="1" startPc="268444656"/>
+<entry endPc="268444828" name="powerInfo" stackId="1" startPc="268444753"/>
 </localVars>
 <annotations/>
 <functions>
